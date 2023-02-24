@@ -1,0 +1,1772 @@
+[
+    {
+        "searchResult": {
+            "searchID": "c5927397bf43450698fba6bddd3b2a93",
+            "totalCount": 165,
+            "searchMerchants": [
+                {
+                    "id": "SGDD11783",
+                    "address": {
+                        "name": "Pita Tree Kebab - Forum Shopping Mall"
+                    },
+                    "latlng": {
+                        "latitude": 1.306528,
+                        "longitude": 103.828769
+                    },
+                    "estimatedDeliveryTime": 40,
+                    "merchantBrief": {
+                        "cuisine": [
+                            "Alcohol",
+                            "Drinks & Beverages",
+                            "BBQ & Grill",
+                            "Snack"
+                        ],
+                        "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/SGDD11783/hero/c667ed2885b84b6db6c7a2d345a7d632_1594803025780335772.jpeg",
+                        "smallPhotoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/SGDD11783/list/62a435eec66342ce9bbd7d1784159c4b_1607013512638316209.jpeg",
+                        "iconHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/SGDD11783/logo/3169cd5af8814b9c999bab3b1d690f2b_1607013506644604570.jpeg",
+                        "openHours": {
+                            "open": true,
+                            "displayedHours": "00:00-04:30 09:30-23:59",
+                            "sun": "00:00-04:30 09:30-23:59",
+                            "mon": "00:00-04:30 09:30-23:59",
+                            "tue": "00:00-04:30 09:30-23:59",
+                            "wed": "00:00-04:30 09:30-23:59",
+                            "thu": "00:00-04:30 09:30-23:59",
+                            "fri": "00:00-05:30 09:30-23:59",
+                            "sat": "00:00-05:30 09:30-23:59"
+                        },
+                        "distanceInKm": 4.829,
+                        "rating": 3.9,
+                        "vote_count": 563,
+                        "deliverBy": "GRAB",
+                        "displayInfo": {
+                            "primaryText": "Pita Tree Kebab - Forum Shopping Mall"
+                        },
+                        "deliverOptions": "DELIVERY_TAKEAWAY_DINEIN"
+                    },
+                    "chainID": "01_Pita_Tree_Kebab",
+                    "chainName": "Pita Tree Kebab",
+                    "estimatedDeliveryFee": {
+                        "currency": {
+                            "code": "SGD",
+                            "symbol": "SGD",
+                            "exponent": 2
+                        },
+                        "price": 610,
+                        "priceDisplay": "S$6.10",
+                        "multiplier": 1
+                    },
+                    "metadata": {
+                        "origin": [
+                            "Keyword::",
+                            "Search"
+                        ],
+                        "discovery": {
+                            "requestID": "7a7e1dda-5385-4ac3-aa19-66e3bbd23235",
+                            "service": "foodsearch",
+                            "method": "recall_semantic_search",
+                            "discoverID": "c5927397bf43450698fba6bddd3b2a93",
+                            "rerankMethod": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "customDimensions": "business_type=0,is_keyword=true",
+                            "defaultRankGroupID": "namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420",
+                            "defaultRankFormula": "{\"ESSS_relevance_score\":\"1 * [ES_relevance_score] + 20 * [SS_relevance_score]\",\"ES_relevance_score\":\"max(max(max(1 * [ES_fuzzy_score], 100 * [ES_nonphrase_score]), 10000 * [ES_phrase_score] + 5000 * [ES_entity_score_0] + 5000 * [ES_entity_score_1] + 5000 * [ES_entity_score_2]), 5000 * [ES_expand_score])\",\"boost_entity_item_names\":\"2.5 * [entity_item_prob]  + 0\",\"boost_entity_name\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_name.shingle\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_primary_cuisines\":\"2.5 * [entity_cuisine_prob]  + 0\",\"boost_entity_primary_cuisines.shingle\":\"2.5 * [entity_cuisine_prob]  + 0\",\"default_ranking_v2\":\"[ESSS_relevance_score] * (2.01949787 * [eta_score] + 4.52132463 * [popularity_score] + 0 * [promo_score] + 0 * [partner_score] + 1.07192206 * [recency_score] + 0.85934812 * [is_integrated] + 0.37972906)\",\"enable_semantic\":\"1\",\"experiment_id\":\"exp_food_ksr_20220430_6\",\"food_intent\":\"v2\",\"group\":\"namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420\",\"multiobj_ranking\":\"[is_open] + [is_match] + [food_keyword_sr_v4_1_1]\",\"rerank_type\":\"1\",\"similarSearchModelVersion\":\"v2\"}",
+                            "postRerankGroupID": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "recallSource": "semantic"
+                        }
+                    },
+                    "businessType": "FOOD"
+                },
+                {
+                    "id": "4-C25UJ6JYHEC3HA",
+                    "address": {
+                        "name": "New Bombay Restaurant In Singapore, A Bombay Briyani And B.B.Q Restaurant In East Area - Chancerlodge Complex"
+                    },
+                    "latlng": {
+                        "latitude": 1.31466826705395,
+                        "longitude": 103.87725223426
+                    },
+                    "estimatedDeliveryTime": 119,
+                    "merchantBrief": {
+                        "cuisine": [
+                            "Islandwide Delivery",
+                            "Indian",
+                            "Halal"
+                        ],
+                        "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C25UJ6JYHEC3HA/logo/f829a47dd2614fd2a11151068935b31e_1637154069331652541.jpeg",
+                        "smallPhotoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C25UJ6JYHEC3HA/logo/400ae6c1ff614558853824a03a7ede05_1637154062953165580.jpeg",
+                        "halal": true,
+                        "openHours": {
+                            "open": true,
+                            "displayedHours": "00:00-03:59 10:00-23:59",
+                            "sun": "00:00-03:59 10:00-23:59",
+                            "mon": "00:00-04:00 10:00-23:59",
+                            "tue": "00:00-03:59 10:00-23:59",
+                            "wed": "00:00-03:59 10:00-23:59",
+                            "thu": "00:00-03:59 10:00-23:59",
+                            "fri": "00:00-03:59 10:00-23:59",
+                            "sat": "00:00-03:59 10:00-23:59"
+                        },
+                        "distanceInKm": 6.8,
+                        "rating": 3.3,
+                        "vote_count": 86,
+                        "deliverBy": "MERCHANT",
+                        "displayInfo": {
+                            "primaryText": "New Bombay Restaurant In Singapore, A Bombay Briyani And B.B.Q Restaurant In East Area - Chancerlodge Complex"
+                        },
+                        "deliverOptions": "DELIVERY_DINEIN"
+                    },
+                    "chainID": "01_New_Bombay_Restaurant_In_Singapore_A_Bombay_Briyani_And_BBQ_R",
+                    "chainName": "New Bombay Restaurant In Singapore, A Bombay Briyani And B.B.Q Restaurant In East Area",
+                    "estimatedDeliveryFee": {
+                        "currency": {
+                            "code": "SGD",
+                            "symbol": "S$",
+                            "exponent": 2
+                        },
+                        "price": 500,
+                        "priceDisplay": "S$5.00"
+                    },
+                    "metadata": {
+                        "origin": [
+                            "Keyword::",
+                            "Search"
+                        ],
+                        "discovery": {
+                            "requestID": "7a7e1dda-5385-4ac3-aa19-66e3bbd23235",
+                            "service": "foodsearch",
+                            "method": "keyword_entity",
+                            "discoverID": "c5927397bf43450698fba6bddd3b2a93",
+                            "rerankMethod": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "customDimensions": "business_type=0,is_keyword=true",
+                            "defaultRankGroupID": "namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420",
+                            "defaultRankFormula": "{\"ESSS_relevance_score\":\"1 * [ES_relevance_score] + 20 * [SS_relevance_score]\",\"ES_relevance_score\":\"max(max(max(1 * [ES_fuzzy_score], 100 * [ES_nonphrase_score]), 10000 * [ES_phrase_score] + 5000 * [ES_entity_score_0] + 5000 * [ES_entity_score_1] + 5000 * [ES_entity_score_2]), 5000 * [ES_expand_score])\",\"boost_entity_item_names\":\"2.5 * [entity_item_prob]  + 0\",\"boost_entity_name\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_name.shingle\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_primary_cuisines\":\"2.5 * [entity_cuisine_prob]  + 0\",\"boost_entity_primary_cuisines.shingle\":\"2.5 * [entity_cuisine_prob]  + 0\",\"default_ranking_v2\":\"[ESSS_relevance_score] * (2.01949787 * [eta_score] + 4.52132463 * [popularity_score] + 0 * [promo_score] + 0 * [partner_score] + 1.07192206 * [recency_score] + 0.85934812 * [is_integrated] + 0.37972906)\",\"enable_semantic\":\"1\",\"experiment_id\":\"exp_food_ksr_20220430_6\",\"food_intent\":\"v2\",\"group\":\"namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420\",\"multiobj_ranking\":\"[is_open] + [is_match] + [food_keyword_sr_v4_1_1]\",\"rerank_type\":\"1\",\"similarSearchModelVersion\":\"v2\"}",
+                            "postRerankGroupID": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula"
+                        }
+                    },
+                    "businessType": "FOOD"
+                },
+                {
+                    "id": "4-C24VC2WFVALKGJ",
+                    "address": {
+                        "name": "Lahore Darbar Kebab and Curry Junction / Best Pakistani Kebab Biryani and Indian Curry from Heart of Singapore - Chancerlodge Complex"
+                    },
+                    "latlng": {
+                        "latitude": 1.3146222863903503,
+                        "longitude": 103.87738244063144
+                    },
+                    "estimatedDeliveryTime": 119,
+                    "merchantBrief": {
+                        "cuisine": [
+                            "Indian",
+                            "Islandwide Delivery",
+                            "Breakfast & Brunch"
+                        ],
+                        "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C24VC2WFVALKGJ/hero/85635b37687a4f528aa67d941651aec8_1635216266006017405.jpg",
+                        "smallPhotoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C24VC2WFVALKGJ/list/0c13ee6487fc4528a29a032815a68c67_1635216266098703678.jpg",
+                        "iconHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C24VC2WFVALKGJ/logo/ab31d25701f8430296032cb185d38745_1635216265924688291.jpg",
+                        "openHours": {
+                            "open": true,
+                            "displayedHours": "00:00-04:00 10:00-23:59",
+                            "sun": "00:00-04:00 10:00-23:59",
+                            "mon": "00:00-04:00 10:00-23:59",
+                            "tue": "00:00-04:00 10:00-23:59",
+                            "wed": "00:00-04:00 10:00-23:59",
+                            "thu": "00:00-04:00 10:00-23:59",
+                            "fri": "00:00-04:00 10:00-23:59",
+                            "sat": "00:00-04:00 10:00-23:59"
+                        },
+                        "distanceInKm": 6.883,
+                        "rating": 2.7,
+                        "vote_count": 29,
+                        "deliverBy": "MERCHANT",
+                        "displayInfo": {
+                            "primaryText": "Lahore Darbar Kebab and Curry Junction / Best Pakistani Kebab Biryani and Indian Curry from Heart of Singapore - Chancerlodge Complex"
+                        },
+                        "deliverOptions": "DELIVERY_TAKEAWAY_DINEIN"
+                    },
+                    "chainID": "01_Lahore_Darbar_Kebab_and_Curry_Junction__Best_Pakistani_Kebab_",
+                    "chainName": "Lahore Darbar Kebab and Curry Junction / Best Pakistani Kebab Biryani and Indian Curry from Heart of Singapore",
+                    "estimatedDeliveryFee": {
+                        "currency": {
+                            "code": "SGD",
+                            "symbol": "S$",
+                            "exponent": 2
+                        },
+                        "price": 500,
+                        "priceDisplay": "S$5.00"
+                    },
+                    "metadata": {
+                        "origin": [
+                            "Keyword::",
+                            "Search"
+                        ],
+                        "discovery": {
+                            "requestID": "7a7e1dda-5385-4ac3-aa19-66e3bbd23235",
+                            "service": "foodsearch",
+                            "method": "keyword_entity",
+                            "discoverID": "c5927397bf43450698fba6bddd3b2a93",
+                            "rerankMethod": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "customDimensions": "business_type=0,is_keyword=true",
+                            "defaultRankGroupID": "namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420",
+                            "defaultRankFormula": "{\"ESSS_relevance_score\":\"1 * [ES_relevance_score] + 20 * [SS_relevance_score]\",\"ES_relevance_score\":\"max(max(max(1 * [ES_fuzzy_score], 100 * [ES_nonphrase_score]), 10000 * [ES_phrase_score] + 5000 * [ES_entity_score_0] + 5000 * [ES_entity_score_1] + 5000 * [ES_entity_score_2]), 5000 * [ES_expand_score])\",\"boost_entity_item_names\":\"2.5 * [entity_item_prob]  + 0\",\"boost_entity_name\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_name.shingle\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_primary_cuisines\":\"2.5 * [entity_cuisine_prob]  + 0\",\"boost_entity_primary_cuisines.shingle\":\"2.5 * [entity_cuisine_prob]  + 0\",\"default_ranking_v2\":\"[ESSS_relevance_score] * (2.01949787 * [eta_score] + 4.52132463 * [popularity_score] + 0 * [promo_score] + 0 * [partner_score] + 1.07192206 * [recency_score] + 0.85934812 * [is_integrated] + 0.37972906)\",\"enable_semantic\":\"1\",\"experiment_id\":\"exp_food_ksr_20220430_6\",\"food_intent\":\"v2\",\"group\":\"namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420\",\"multiobj_ranking\":\"[is_open] + [is_match] + [food_keyword_sr_v4_1_1]\",\"rerank_type\":\"1\",\"similarSearchModelVersion\":\"v2\"}",
+                            "postRerankGroupID": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula"
+                        }
+                    },
+                    "businessType": "FOOD"
+                },
+                {
+                    "id": "4-C2UTJA5FDEDBFA",
+                    "address": {
+                        "name": "Warm Up Cafe - Mackenzie Road"
+                    },
+                    "latlng": {
+                        "latitude": 1.306519,
+                        "longitude": 103.847261
+                    },
+                    "estimatedDeliveryTime": 45,
+                    "merchantBrief": {
+                        "cuisine": [
+                            "Thai",
+                            "Local & Malaysian",
+                            "Noodles",
+                            "Seafood"
+                        ],
+                        "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C2UTJA5FDEDBFA/hero/adc9d2676f994afd89827dec9277ef84_1623050222491181118.jpeg",
+                        "smallPhotoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C2UTJA5FDEDBFA/list/59c212beb8e04c359ccb8b6938fd54ce_1623050209986472299.jpeg",
+                        "iconHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C2UTJA5FDEDBFA/logo/8af59c5fc58848e2aa2beef8dc6e2161_1623050199911560967.jpeg",
+                        "openHours": {
+                            "open": true,
+                            "displayedHours": "00:00-03:30 12:00-23:59",
+                            "sun": "00:00-03:30 12:00-23:59",
+                            "mon": "00:00-03:30 12:00-23:59",
+                            "tue": "00:00-03:30 12:00-23:59",
+                            "wed": "00:00-03:30 12:00-23:59",
+                            "thu": "00:00-03:30 12:00-23:59",
+                            "fri": "00:00-03:30 12:00-23:59",
+                            "sat": "00:00-03:30 12:00-23:59"
+                        },
+                        "distanceInKm": 3.404,
+                        "rating": 4.6,
+                        "vote_count": 149,
+                        "deliverBy": "GRAB",
+                        "displayInfo": {
+                            "primaryText": "Warm Up Cafe - Mackenzie Road"
+                        },
+                        "deliverOptions": "DELIVERY_TAKEAWAY_DINEIN"
+                    },
+                    "chainID": "01_Warm_Up_Cafe",
+                    "chainName": "Warm Up Cafe",
+                    "estimatedDeliveryFee": {
+                        "currency": {
+                            "code": "SGD",
+                            "symbol": "SGD",
+                            "exponent": 2
+                        },
+                        "price": 610,
+                        "priceDisplay": "S$6.10",
+                        "multiplier": 1
+                    },
+                    "metadata": {
+                        "origin": [
+                            "Keyword::",
+                            "Search"
+                        ],
+                        "discovery": {
+                            "requestID": "7a7e1dda-5385-4ac3-aa19-66e3bbd23235",
+                            "service": "foodsearch",
+                            "method": "recall_semantic_search",
+                            "discoverID": "c5927397bf43450698fba6bddd3b2a93",
+                            "rerankMethod": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "customDimensions": "business_type=0,is_keyword=true",
+                            "defaultRankGroupID": "namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420",
+                            "defaultRankFormula": "{\"ESSS_relevance_score\":\"1 * [ES_relevance_score] + 20 * [SS_relevance_score]\",\"ES_relevance_score\":\"max(max(max(1 * [ES_fuzzy_score], 100 * [ES_nonphrase_score]), 10000 * [ES_phrase_score] + 5000 * [ES_entity_score_0] + 5000 * [ES_entity_score_1] + 5000 * [ES_entity_score_2]), 5000 * [ES_expand_score])\",\"boost_entity_item_names\":\"2.5 * [entity_item_prob]  + 0\",\"boost_entity_name\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_name.shingle\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_primary_cuisines\":\"2.5 * [entity_cuisine_prob]  + 0\",\"boost_entity_primary_cuisines.shingle\":\"2.5 * [entity_cuisine_prob]  + 0\",\"default_ranking_v2\":\"[ESSS_relevance_score] * (2.01949787 * [eta_score] + 4.52132463 * [popularity_score] + 0 * [promo_score] + 0 * [partner_score] + 1.07192206 * [recency_score] + 0.85934812 * [is_integrated] + 0.37972906)\",\"enable_semantic\":\"1\",\"experiment_id\":\"exp_food_ksr_20220430_6\",\"food_intent\":\"v2\",\"group\":\"namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420\",\"multiobj_ranking\":\"[is_open] + [is_match] + [food_keyword_sr_v4_1_1]\",\"rerank_type\":\"1\",\"similarSearchModelVersion\":\"v2\"}",
+                            "postRerankGroupID": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "recallSource": "semantic"
+                        }
+                    },
+                    "businessType": "FOOD"
+                },
+                {
+                    "id": "4-C24VC73HNAXXBE",
+                    "address": {
+                        "name": "The Biryani Multi-cuisine @Central Singapore, Authentic Hydrabadi Biryani and Curry Kebab - Chancerlodge Complex"
+                    },
+                    "latlng": {
+                        "latitude": 1.3146274666253812,
+                        "longitude": 103.87738054956147
+                    },
+                    "estimatedDeliveryTime": 119,
+                    "merchantBrief": {
+                        "cuisine": [
+                            "Indian",
+                            "Islandwide Delivery",
+                            "Breakfast & Brunch",
+                            "Salad",
+                            "BBQ & Grill"
+                        ],
+                        "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C24VC73HNAXXBE/hero/13a8c21e75cf4d0e9071d03bef61ec13_1635334716935858746.jpeg",
+                        "smallPhotoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C24VC73HNAXXBE/list/1e95a5799d3846f3b630e3d4b3bd1a57_1635334709414528049.jpeg",
+                        "iconHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C24VC73HNAXXBE/logo/ec4bd0121b984c3c87828fab4516c784_1635334703418099886.jpeg",
+                        "openHours": {
+                            "open": true,
+                            "displayedHours": "00:00-04:00 10:00-23:59",
+                            "sun": "00:00-04:00 10:00-23:59",
+                            "mon": "00:00-04:00 10:00-23:59",
+                            "tue": "00:00-04:00 10:00-23:59",
+                            "wed": "00:00-04:00 10:00-23:59",
+                            "thu": "00:00-04:00 10:00-23:59",
+                            "fri": "00:00-04:00 10:00-23:59",
+                            "sat": "00:00-04:00 10:00-23:59"
+                        },
+                        "distanceInKm": 6.883,
+                        "rating": 2.7,
+                        "vote_count": 24,
+                        "promo": {
+                            "hasPromo": true,
+                            "description": "10% off Starters"
+                        },
+                        "deliverBy": "MERCHANT",
+                        "displayInfo": {
+                            "primaryText": "The Biryani Multi-cuisine @Central Singapore, Authentic Hydrabadi Biryani and Curry Kebab - Chancerlodge Complex"
+                        },
+                        "deliverOptions": "DELIVERY_TAKEAWAY"
+                    },
+                    "chainID": "01_The_Biryani_Multi_cuisine_Central_Singapore_Authentic_Hydraba",
+                    "chainName": "The Biryani Multi-cuisine @Central Singapore, Authentic Hydrabadi Biryani and Curry Kebab",
+                    "estimatedDeliveryFee": {
+                        "currency": {
+                            "code": "SGD",
+                            "symbol": "S$",
+                            "exponent": 2
+                        },
+                        "price": 500,
+                        "priceDisplay": "S$5.00"
+                    },
+                    "metadata": {
+                        "origin": [
+                            "Keyword::",
+                            "Search"
+                        ],
+                        "discovery": {
+                            "requestID": "7a7e1dda-5385-4ac3-aa19-66e3bbd23235",
+                            "service": "foodsearch",
+                            "method": "keyword_entity",
+                            "discoverID": "c5927397bf43450698fba6bddd3b2a93",
+                            "rerankMethod": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "customDimensions": "business_type=0,is_keyword=true",
+                            "defaultRankGroupID": "namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420",
+                            "defaultRankFormula": "{\"ESSS_relevance_score\":\"1 * [ES_relevance_score] + 20 * [SS_relevance_score]\",\"ES_relevance_score\":\"max(max(max(1 * [ES_fuzzy_score], 100 * [ES_nonphrase_score]), 10000 * [ES_phrase_score] + 5000 * [ES_entity_score_0] + 5000 * [ES_entity_score_1] + 5000 * [ES_entity_score_2]), 5000 * [ES_expand_score])\",\"boost_entity_item_names\":\"2.5 * [entity_item_prob]  + 0\",\"boost_entity_name\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_name.shingle\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_primary_cuisines\":\"2.5 * [entity_cuisine_prob]  + 0\",\"boost_entity_primary_cuisines.shingle\":\"2.5 * [entity_cuisine_prob]  + 0\",\"default_ranking_v2\":\"[ESSS_relevance_score] * (2.01949787 * [eta_score] + 4.52132463 * [popularity_score] + 0 * [promo_score] + 0 * [partner_score] + 1.07192206 * [recency_score] + 0.85934812 * [is_integrated] + 0.37972906)\",\"enable_semantic\":\"1\",\"experiment_id\":\"exp_food_ksr_20220430_6\",\"food_intent\":\"v2\",\"group\":\"namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420\",\"multiobj_ranking\":\"[is_open] + [is_match] + [food_keyword_sr_v4_1_1]\",\"rerank_type\":\"1\",\"similarSearchModelVersion\":\"v2\"}",
+                            "postRerankGroupID": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula"
+                        }
+                    },
+                    "businessType": "FOOD"
+                },
+                {
+                    "id": "4-C25UJ6UUGFVXCT",
+                    "address": {
+                        "name": "Dal And Rice, A Indian / Middle Eastern / Pakistani Food Palace In Singapore - Chancerlodge Complex"
+                    },
+                    "latlng": {
+                        "latitude": 1.31466826705395,
+                        "longitude": 103.87725223426
+                    },
+                    "estimatedDeliveryTime": 119,
+                    "merchantBrief": {
+                        "cuisine": [
+                            "Indian",
+                            "Seafood",
+                            "Islandwide Delivery"
+                        ],
+                        "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C25UJ6UUGFVXCT/logo/e24f27ee50604e3fab0b9066a34ebaa3_1637154363385873694.jpeg",
+                        "smallPhotoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C25UJ6UUGFVXCT/logo/bfb4dc8b41e74480904b9ae9900b6f6f_1637154358133981747.jpeg",
+                        "halal": true,
+                        "openHours": {
+                            "open": true,
+                            "displayedHours": "00:00-04:00 10:00-23:59",
+                            "sun": "00:00-03:59 10:00-23:59",
+                            "mon": "00:00-04:00 10:00-23:59",
+                            "tue": "00:00-04:00 10:00-23:59",
+                            "wed": "00:00-04:00 10:00-23:59",
+                            "thu": "00:00-03:59 10:00-23:59",
+                            "fri": "00:00-03:59 10:00-23:59",
+                            "sat": "00:00-03:59 10:00-23:59"
+                        },
+                        "distanceInKm": 5.651,
+                        "rating": 3.5,
+                        "vote_count": 69,
+                        "promo": {
+                            "hasPromo": true,
+                            "description": "10% off Starters"
+                        },
+                        "deliverBy": "MERCHANT",
+                        "displayInfo": {
+                            "primaryText": "Dal And Rice, A Indian / Middle Eastern / Pakistani Food Palace In Singapore - Chancerlodge Complex"
+                        },
+                        "deliverOptions": "DELIVERY_DINEIN"
+                    },
+                    "chainID": "01_Dal_And_Rice_A_Indian__Middle_Eastern__Pakistani_Food_Palace_",
+                    "chainName": "Dal And Rice, A Indian / Middle Eastern / Pakistani Food Palace In Singapore",
+                    "estimatedDeliveryFee": {
+                        "currency": {
+                            "code": "SGD",
+                            "symbol": "S$",
+                            "exponent": 2
+                        },
+                        "price": 500,
+                        "priceDisplay": "S$5.00"
+                    },
+                    "metadata": {
+                        "origin": [
+                            "Keyword::",
+                            "Search"
+                        ],
+                        "discovery": {
+                            "requestID": "7a7e1dda-5385-4ac3-aa19-66e3bbd23235",
+                            "service": "foodsearch",
+                            "method": "keyword_entity",
+                            "discoverID": "c5927397bf43450698fba6bddd3b2a93",
+                            "rerankMethod": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "customDimensions": "business_type=0,is_keyword=true",
+                            "defaultRankGroupID": "namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420",
+                            "defaultRankFormula": "{\"ESSS_relevance_score\":\"1 * [ES_relevance_score] + 20 * [SS_relevance_score]\",\"ES_relevance_score\":\"max(max(max(1 * [ES_fuzzy_score], 100 * [ES_nonphrase_score]), 10000 * [ES_phrase_score] + 5000 * [ES_entity_score_0] + 5000 * [ES_entity_score_1] + 5000 * [ES_entity_score_2]), 5000 * [ES_expand_score])\",\"boost_entity_item_names\":\"2.5 * [entity_item_prob]  + 0\",\"boost_entity_name\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_name.shingle\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_primary_cuisines\":\"2.5 * [entity_cuisine_prob]  + 0\",\"boost_entity_primary_cuisines.shingle\":\"2.5 * [entity_cuisine_prob]  + 0\",\"default_ranking_v2\":\"[ESSS_relevance_score] * (2.01949787 * [eta_score] + 4.52132463 * [popularity_score] + 0 * [promo_score] + 0 * [partner_score] + 1.07192206 * [recency_score] + 0.85934812 * [is_integrated] + 0.37972906)\",\"enable_semantic\":\"1\",\"experiment_id\":\"exp_food_ksr_20220430_6\",\"food_intent\":\"v2\",\"group\":\"namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420\",\"multiobj_ranking\":\"[is_open] + [is_match] + [food_keyword_sr_v4_1_1]\",\"rerank_type\":\"1\",\"similarSearchModelVersion\":\"v2\"}",
+                            "postRerankGroupID": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula"
+                        }
+                    },
+                    "businessType": "FOOD"
+                },
+                {
+                    "id": "4-C24UL3BDLXDWJN",
+                    "address": {
+                        "name": "Beer Wine Spirits Singapore - Orchard🏍"
+                    },
+                    "latlng": {
+                        "latitude": 1.306525,
+                        "longitude": 103.826808
+                    },
+                    "estimatedDeliveryTime": 119,
+                    "merchantBrief": {
+                        "cuisine": [
+                            "Alcohol",
+                            "Beverages"
+                        ],
+                        "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C24UL3BDLXDWJN/hero/4ed915eaca64414e83d9056f3afac71e_1663324841781315541.jpeg",
+                        "smallPhotoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C24UL3BDLXDWJN/list/947a51f603734905b6d0bb28d49b9708_1635165897691634395.jpeg",
+                        "iconHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C24UL3BDLXDWJN/logo/dc9248a28146470dac1408794e7039ce_1635165894022048453.jpeg",
+                        "openHours": {
+                            "open": true,
+                            "displayedHours": "00:00-03:00 17:00-23:59",
+                            "sun": "00:00-03:00 17:00-23:59",
+                            "mon": "00:00-00:03 17:00-23:59",
+                            "tue": "00:00-03:00 17:00-23:59",
+                            "wed": "00:00-03:00 17:00-23:59",
+                            "thu": "00:00-03:00 14:00-23:59",
+                            "fri": "00:00-03:00 16:00-23:59",
+                            "sat": "00:00-06:00 16:00-23:59"
+                        },
+                        "distanceInKm": 5.095,
+                        "rating": 2.9,
+                        "vote_count": 68,
+                        "promo": {
+                            "hasPromo": true,
+                            "description": "20% Off Self-Pick Up with MARTPICKUPBONUS under GrabUnlimited"
+                        },
+                        "closingSoonText": "Closing soon - order before 3 AM",
+                        "deliverBy": "MERCHANT",
+                        "displayInfo": {
+                            "primaryText": "Beer Wine Spirits Singapore - Orchard🏍"
+                        },
+                        "deliverOptions": "DELIVERY_TAKEAWAY",
+                        "secondaryCuisine": [
+                            "M-Spec(Food)-Bev(Alcohol)"
+                        ]
+                    },
+                    "chainID": "03_Beer_Wine_Spirits",
+                    "chainName": "Beer Wine Spirits Singapore",
+                    "estimatedDeliveryFee": {
+                        "currency": {
+                            "code": "SGD",
+                            "symbol": "S$",
+                            "exponent": 2
+                        },
+                        "price": 800,
+                        "priceDisplay": "S$8.00"
+                    },
+                    "metadata": {
+                        "origin": [
+                            "Keyword::",
+                            "Search"
+                        ],
+                        "discovery": {
+                            "requestID": "7a7e1dda-5385-4ac3-aa19-66e3bbd23235",
+                            "service": "foodsearch",
+                            "method": "keyword_entity",
+                            "discoverID": "c5927397bf43450698fba6bddd3b2a93",
+                            "rerankMethod": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "customDimensions": "business_type=0,is_keyword=true",
+                            "defaultRankGroupID": "namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420",
+                            "defaultRankFormula": "{\"ESSS_relevance_score\":\"1 * [ES_relevance_score] + 20 * [SS_relevance_score]\",\"ES_relevance_score\":\"max(max(max(1 * [ES_fuzzy_score], 100 * [ES_nonphrase_score]), 10000 * [ES_phrase_score] + 5000 * [ES_entity_score_0] + 5000 * [ES_entity_score_1] + 5000 * [ES_entity_score_2]), 5000 * [ES_expand_score])\",\"boost_entity_item_names\":\"2.5 * [entity_item_prob]  + 0\",\"boost_entity_name\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_name.shingle\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_primary_cuisines\":\"2.5 * [entity_cuisine_prob]  + 0\",\"boost_entity_primary_cuisines.shingle\":\"2.5 * [entity_cuisine_prob]  + 0\",\"default_ranking_v2\":\"[ESSS_relevance_score] * (2.01949787 * [eta_score] + 4.52132463 * [popularity_score] + 0 * [promo_score] + 0 * [partner_score] + 1.07192206 * [recency_score] + 0.85934812 * [is_integrated] + 0.37972906)\",\"enable_semantic\":\"1\",\"experiment_id\":\"exp_food_ksr_20220430_6\",\"food_intent\":\"v2\",\"group\":\"namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420\",\"multiobj_ranking\":\"[is_open] + [is_match] + [food_keyword_sr_v4_1_1]\",\"rerank_type\":\"1\",\"similarSearchModelVersion\":\"v2\"}",
+                            "postRerankGroupID": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula"
+                        }
+                    },
+                    "businessType": "MART"
+                },
+                {
+                    "id": "4-CZDUGZMXGAJ1A2",
+                    "address": {
+                        "name": "Mosanco Enchanted Cafe - Farrer Park"
+                    },
+                    "latlng": {
+                        "latitude": 1.3142965701230622,
+                        "longitude": 103.85412607615541
+                    },
+                    "estimatedDeliveryTime": 35,
+                    "merchantBrief": {
+                        "cuisine": [
+                            "Western",
+                            "Breakfast & Brunch",
+                            "Coffee & Tea"
+                        ],
+                        "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-CZDUGZMXGAJ1A2/hero/c0b584da7f114e598690bb4a35c5af03_1611238136727117730.jpeg",
+                        "smallPhotoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-CZDUGZMXGAJ1A2/list/83f4d916a6174b77bfb671119cc9c4dc_1611238130952059670.jpeg",
+                        "iconHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-CZDUGZMXGAJ1A2/logo/b144a67f4d9e43a287839d0c1e5f5cc2_1611238121902173203.jpeg",
+                        "openHours": {
+                            "open": true,
+                            "displayedHours": "00:00-23:59",
+                            "sun": "00:00-23:59",
+                            "mon": "00:00-23:59",
+                            "tue": "00:00-23:59",
+                            "wed": "00:00-23:59",
+                            "thu": "00:00-23:59",
+                            "fri": "00:00-23:59",
+                            "sat": "00:00-23:59"
+                        },
+                        "distanceInKm": 4.889,
+                        "rating": 4.3,
+                        "vote_count": 297,
+                        "deliverBy": "GRAB",
+                        "displayInfo": {
+                            "primaryText": "Mosanco Enchanted Cafe - Farrer Park"
+                        },
+                        "deliverOptions": "DELIVERY_TAKEAWAY_DINEIN"
+                    },
+                    "chainID": "01_Mosanco_Enchanted_Cafe",
+                    "chainName": "Mosanco Enchanted Cafe",
+                    "estimatedDeliveryFee": {
+                        "currency": {
+                            "code": "SGD",
+                            "symbol": "SGD",
+                            "exponent": 2
+                        },
+                        "price": 730,
+                        "priceDisplay": "S$7.30",
+                        "multiplier": 1
+                    },
+                    "metadata": {
+                        "origin": [
+                            "Keyword::",
+                            "Search"
+                        ],
+                        "discovery": {
+                            "requestID": "7a7e1dda-5385-4ac3-aa19-66e3bbd23235",
+                            "service": "foodsearch",
+                            "method": "recall_semantic_search",
+                            "discoverID": "c5927397bf43450698fba6bddd3b2a93",
+                            "rerankMethod": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "customDimensions": "business_type=0,is_keyword=true",
+                            "defaultRankGroupID": "namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420",
+                            "defaultRankFormula": "{\"ESSS_relevance_score\":\"1 * [ES_relevance_score] + 20 * [SS_relevance_score]\",\"ES_relevance_score\":\"max(max(max(1 * [ES_fuzzy_score], 100 * [ES_nonphrase_score]), 10000 * [ES_phrase_score] + 5000 * [ES_entity_score_0] + 5000 * [ES_entity_score_1] + 5000 * [ES_entity_score_2]), 5000 * [ES_expand_score])\",\"boost_entity_item_names\":\"2.5 * [entity_item_prob]  + 0\",\"boost_entity_name\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_name.shingle\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_primary_cuisines\":\"2.5 * [entity_cuisine_prob]  + 0\",\"boost_entity_primary_cuisines.shingle\":\"2.5 * [entity_cuisine_prob]  + 0\",\"default_ranking_v2\":\"[ESSS_relevance_score] * (2.01949787 * [eta_score] + 4.52132463 * [popularity_score] + 0 * [promo_score] + 0 * [partner_score] + 1.07192206 * [recency_score] + 0.85934812 * [is_integrated] + 0.37972906)\",\"enable_semantic\":\"1\",\"experiment_id\":\"exp_food_ksr_20220430_6\",\"food_intent\":\"v2\",\"group\":\"namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420\",\"multiobj_ranking\":\"[is_open] + [is_match] + [food_keyword_sr_v4_1_1]\",\"rerank_type\":\"1\",\"similarSearchModelVersion\":\"v2\"}",
+                            "postRerankGroupID": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "recallSource": "semantic"
+                        }
+                    },
+                    "businessType": "FOOD"
+                }
+            ],
+            "requestID": "7a7e1dda-5385-4ac3-aa19-66e3bbd23235",
+            "offset": 16,
+            "hasMore": true,
+            "dataTrackingInfo": {
+                "tags": ""
+            }
+        }
+    },
+    {
+        "searchResult": {
+            "searchID": "e4b0198be3c04cdd9123a80f5a5bf668",
+            "totalCount": 165,
+            "searchMerchants": [
+                {
+                    "id": "4-C23XC6VETEEKAA",
+                    "address": {
+                        "name": "Labula Chinese Cuisine - Bedok Reservior Road"
+                    },
+                    "latlng": {
+                        "latitude": 1.337857445116029,
+                        "longitude": 103.92235035085736
+                    },
+                    "estimatedDeliveryTime": 55,
+                    "merchantBrief": {
+                        "cuisine": [
+                            "Chinese",
+                            "Local & Malaysian",
+                            "Mala"
+                        ],
+                        "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C23XC6VETEEKAA/hero/d9aeda806cbd44d286a6e488f2e4fbe3_1634108730011833751.jpeg",
+                        "smallPhotoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C23XC6VETEEKAA/list/7ec69b491fde4fe08943786169a21e66_1634108726029295906.png",
+                        "iconHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C23XC6VETEEKAA/logo/68e2fef4778f4525b9499145ac9c409a_1634108719067394011.png",
+                        "openHours": {
+                            "open": true,
+                            "displayedHours": "00:00-03:00 10:30-23:59",
+                            "sun": "00:00-03:00 10:30-23:59",
+                            "mon": "00:00-03:00 10:30-23:59",
+                            "tue": "00:00-03:00 10:30-23:59",
+                            "wed": "00:00-03:00 10:30-23:59",
+                            "thu": "00:00-03:00 10:30-23:59",
+                            "fri": "00:00-03:00 10:30-23:59",
+                            "sat": "00:00-03:00 10:30-23:59"
+                        },
+                        "distanceInKm": 14.271,
+                        "rating": 4,
+                        "vote_count": 386,
+                        "promo": {
+                            "hasPromo": true,
+                            "description": "10% off Meat 肉"
+                        },
+                        "closingSoonText": "Closing soon - order before 3 AM",
+                        "deliverBy": "GRAB",
+                        "displayInfo": {
+                            "primaryText": "Labula Chinese Cuisine - Bedok Reservior Road"
+                        },
+                        "deliverOptions": "DELIVERY_TAKEAWAY_DINEIN"
+                    },
+                    "chainID": "03_Labula_Chinese_Cuisine",
+                    "chainName": "Labula Chinese Cuisine",
+                    "estimatedDeliveryFee": {
+                        "currency": {
+                            "code": "SGD",
+                            "symbol": "SGD",
+                            "exponent": 2
+                        },
+                        "price": 1560,
+                        "priceDisplay": "S$15.60",
+                        "multiplier": 1
+                    },
+                    "metadata": {
+                        "origin": [
+                            "Keyword::",
+                            "Search"
+                        ],
+                        "discovery": {
+                            "requestID": "85d1313c-f8bf-471e-b0e8-1348bdc64f79",
+                            "service": "foodsearch",
+                            "method": "recall_semantic_search",
+                            "discoverID": "e4b0198be3c04cdd9123a80f5a5bf668",
+                            "rerankMethod": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "customDimensions": "business_type=0,is_keyword=true",
+                            "defaultRankGroupID": "namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420",
+                            "defaultRankFormula": "{\"ESSS_relevance_score\":\"1 * [ES_relevance_score] + 20 * [SS_relevance_score]\",\"ES_relevance_score\":\"max(max(max(1 * [ES_fuzzy_score], 100 * [ES_nonphrase_score]), 10000 * [ES_phrase_score] + 5000 * [ES_entity_score_0] + 5000 * [ES_entity_score_1] + 5000 * [ES_entity_score_2]), 5000 * [ES_expand_score])\",\"boost_entity_item_names\":\"2.5 * [entity_item_prob]  + 0\",\"boost_entity_name\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_name.shingle\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_primary_cuisines\":\"2.5 * [entity_cuisine_prob]  + 0\",\"boost_entity_primary_cuisines.shingle\":\"2.5 * [entity_cuisine_prob]  + 0\",\"default_ranking_v2\":\"[ESSS_relevance_score] * (2.01949787 * [eta_score] + 4.52132463 * [popularity_score] + 0 * [promo_score] + 0 * [partner_score] + 1.07192206 * [recency_score] + 0.85934812 * [is_integrated] + 0.37972906)\",\"enable_semantic\":\"1\",\"experiment_id\":\"exp_food_ksr_20220430_6\",\"food_intent\":\"v2\",\"group\":\"namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420\",\"multiobj_ranking\":\"[is_open] + [is_match] + [food_keyword_sr_v4_1_1]\",\"rerank_type\":\"1\",\"similarSearchModelVersion\":\"v2\"}",
+                            "postRerankGroupID": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "recallSource": "semantic"
+                        }
+                    },
+                    "businessType": "FOOD"
+                },
+                {
+                    "id": "4-C25UJ6ADSEW2NA",
+                    "address": {
+                        "name": "Naan House Restaurant, A Modern Indian Restaurant In East Area In Singapore - Chancerlodge Complex"
+                    },
+                    "latlng": {
+                        "latitude": 1.31466826705395,
+                        "longitude": 103.87725223426
+                    },
+                    "estimatedDeliveryTime": 119,
+                    "merchantBrief": {
+                        "cuisine": [
+                            "Halal",
+                            "Indian",
+                            "Breakfast & Brunch",
+                            "Islandwide Delivery"
+                        ],
+                        "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C25UJ6ADSEW2NA/logo/4bc9dab47aa64b0ebccb57e5fda7a33c_1637153858724423252.jpeg",
+                        "smallPhotoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C25UJ6ADSEW2NA/logo/8fc6aa203e124e4ca09fa6724d111139_1637153854891995858.jpeg",
+                        "halal": true,
+                        "openHours": {
+                            "open": true,
+                            "displayedHours": "00:00-04:00 10:00-23:59",
+                            "sun": "00:00-03:59 10:00-23:59",
+                            "mon": "00:00-04:00 10:00-23:59",
+                            "tue": "00:00-04:00 10:00-23:59",
+                            "wed": "00:00-04:00 10:00-23:59",
+                            "thu": "00:00-03:59 10:00-23:59",
+                            "fri": "00:00-03:59 10:00-23:59",
+                            "sat": "00:00-03:59 10:00-23:59"
+                        },
+                        "distanceInKm": 5.651,
+                        "rating": 3.3,
+                        "vote_count": 342,
+                        "promo": {
+                            "hasPromo": true,
+                            "description": "10% off BEEF SPECIAL"
+                        },
+                        "deliverBy": "MERCHANT",
+                        "displayInfo": {
+                            "primaryText": "Naan House Restaurant, A Modern Indian Restaurant In East Area In Singapore - Chancerlodge Complex"
+                        },
+                        "deliverOptions": "DELIVERY_DINEIN"
+                    },
+                    "chainID": "01_Naan_House_Restaurant_A_Modern_Indian_Restaurant_In_East_Area",
+                    "chainName": "Naan House Restaurant, A Modern Indian Restaurant In East Area In Singapore",
+                    "estimatedDeliveryFee": {
+                        "currency": {
+                            "code": "SGD",
+                            "symbol": "S$",
+                            "exponent": 2
+                        },
+                        "price": 500,
+                        "priceDisplay": "S$5.00"
+                    },
+                    "metadata": {
+                        "origin": [
+                            "Keyword::",
+                            "Search"
+                        ],
+                        "discovery": {
+                            "requestID": "85d1313c-f8bf-471e-b0e8-1348bdc64f79",
+                            "service": "foodsearch",
+                            "method": "keyword_entity",
+                            "discoverID": "e4b0198be3c04cdd9123a80f5a5bf668",
+                            "rerankMethod": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "customDimensions": "business_type=0,is_keyword=true",
+                            "defaultRankGroupID": "namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420",
+                            "defaultRankFormula": "{\"ESSS_relevance_score\":\"1 * [ES_relevance_score] + 20 * [SS_relevance_score]\",\"ES_relevance_score\":\"max(max(max(1 * [ES_fuzzy_score], 100 * [ES_nonphrase_score]), 10000 * [ES_phrase_score] + 5000 * [ES_entity_score_0] + 5000 * [ES_entity_score_1] + 5000 * [ES_entity_score_2]), 5000 * [ES_expand_score])\",\"boost_entity_item_names\":\"2.5 * [entity_item_prob]  + 0\",\"boost_entity_name\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_name.shingle\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_primary_cuisines\":\"2.5 * [entity_cuisine_prob]  + 0\",\"boost_entity_primary_cuisines.shingle\":\"2.5 * [entity_cuisine_prob]  + 0\",\"default_ranking_v2\":\"[ESSS_relevance_score] * (2.01949787 * [eta_score] + 4.52132463 * [popularity_score] + 0 * [promo_score] + 0 * [partner_score] + 1.07192206 * [recency_score] + 0.85934812 * [is_integrated] + 0.37972906)\",\"enable_semantic\":\"1\",\"experiment_id\":\"exp_food_ksr_20220430_6\",\"food_intent\":\"v2\",\"group\":\"namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420\",\"multiobj_ranking\":\"[is_open] + [is_match] + [food_keyword_sr_v4_1_1]\",\"rerank_type\":\"1\",\"similarSearchModelVersion\":\"v2\"}",
+                            "postRerankGroupID": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula"
+                        }
+                    },
+                    "businessType": "FOOD"
+                },
+                {
+                    "id": "4-C2MGNFETHAWEWE",
+                    "address": {
+                        "name": "Pakistani Curry N Biriyani Culture Hub @ Newton Road :: A Pak Indian and Middle Eastern Shawarma Cuisine in Singapore Indian /Curry/Biriyani /Kebab/ Wraps"
+                    },
+                    "latlng": {
+                        "latitude": 1.31806,
+                        "longitude": 103.8437
+                    },
+                    "estimatedDeliveryTime": 119,
+                    "merchantBrief": {
+                        "cuisine": [
+                            "Indian"
+                        ],
+                        "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C2MGNFETHAWEWE/hero/1b7231eb2cf14146bb00b31dc86b25d9_1635489778038589259.jpeg",
+                        "smallPhotoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C2MGNFETHAWEWE/list/ca6262c42c294ad489276322d9309415_1635489758941251522.jpeg",
+                        "iconHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C2MGNFETHAWEWE/logo/ff16e970dded4633929836ad47bde00b_1635489754672512440.jpeg",
+                        "openHours": {
+                            "open": true,
+                            "displayedHours": "00:00-05:00 08:30-23:59",
+                            "sun": "00:00-05:00 08:30-23:59",
+                            "mon": "00:00-05:00 08:30-23:59",
+                            "tue": "00:00-05:00 08:30-23:59",
+                            "wed": "00:00-05:00 08:30-23:59",
+                            "thu": "00:00-05:00 08:30-23:59",
+                            "fri": "00:00-05:00 08:30-23:59",
+                            "sat": "00:00-05:00 08:30-23:59"
+                        },
+                        "distanceInKm": 7.268,
+                        "rating": 2.9,
+                        "vote_count": 456,
+                        "promo": {
+                            "hasPromo": true,
+                            "description": "Enjoy up to 20% off menu-wide deals (Discount cap applies. Limited redemptions"
+                        },
+                        "featuredText": "Featured",
+                        "deliverBy": "MERCHANT",
+                        "displayInfo": {
+                            "primaryText": "Pakistani Curry N Biriyani Culture Hub @ Newton Road :: A Pak Indian and Middle Eastern Shawarma Cuisine in Singapore Indian /Curry/Biriyani /Kebab/ Wraps"
+                        },
+                        "deliverOptions": "ONLY_DELIVERY"
+                    },
+                    "chainID": "01_Pakistani_Curry_N_Biriyani_Culture_Hub__Newton_Road__A_Pak_In",
+                    "chainName": "Pakistani Curry N Biriyani Culture Hub @ Newton Road :: A Pak Indian and Middle Eastern Shawarma Cuisine in Singapore Indian /Curry/Biriyani /Kebab/ Wraps",
+                    "estimatedDeliveryFee": {
+                        "currency": {
+                            "code": "SGD",
+                            "symbol": "S$",
+                            "exponent": 2
+                        },
+                        "price": 600,
+                        "priceDisplay": "S$6.00"
+                    },
+                    "metadata": {
+                        "origin": [
+                            "Keyword::",
+                            "Search"
+                        ],
+                        "discovery": {
+                            "requestID": "85d1313c-f8bf-471e-b0e8-1348bdc64f79",
+                            "service": "foodsearch",
+                            "method": "keyword_entity",
+                            "discoverID": "e4b0198be3c04cdd9123a80f5a5bf668",
+                            "rerankMethod": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "customDimensions": "business_type=0,is_keyword=true",
+                            "defaultRankGroupID": "namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420",
+                            "defaultRankFormula": "{\"ESSS_relevance_score\":\"1 * [ES_relevance_score] + 20 * [SS_relevance_score]\",\"ES_relevance_score\":\"max(max(max(1 * [ES_fuzzy_score], 100 * [ES_nonphrase_score]), 10000 * [ES_phrase_score] + 5000 * [ES_entity_score_0] + 5000 * [ES_entity_score_1] + 5000 * [ES_entity_score_2]), 5000 * [ES_expand_score])\",\"boost_entity_item_names\":\"2.5 * [entity_item_prob]  + 0\",\"boost_entity_name\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_name.shingle\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_primary_cuisines\":\"2.5 * [entity_cuisine_prob]  + 0\",\"boost_entity_primary_cuisines.shingle\":\"2.5 * [entity_cuisine_prob]  + 0\",\"default_ranking_v2\":\"[ESSS_relevance_score] * (2.01949787 * [eta_score] + 4.52132463 * [popularity_score] + 0 * [promo_score] + 0 * [partner_score] + 1.07192206 * [recency_score] + 0.85934812 * [is_integrated] + 0.37972906)\",\"enable_semantic\":\"1\",\"experiment_id\":\"exp_food_ksr_20220430_6\",\"food_intent\":\"v2\",\"group\":\"namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420\",\"multiobj_ranking\":\"[is_open] + [is_match] + [food_keyword_sr_v4_1_1]\",\"rerank_type\":\"1\",\"similarSearchModelVersion\":\"v2\"}",
+                            "postRerankGroupID": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula"
+                        }
+                    },
+                    "businessType": "FOOD"
+                },
+                {
+                    "id": "4-CZEBMFUBUBBFCA",
+                    "address": {
+                        "name": "Tuna Paradise Singapore - Tannery Lane (Next Day Delivery)🏍"
+                    },
+                    "latlng": {
+                        "latitude": 1.32776503,
+                        "longitude": 103.87809932
+                    },
+                    "estimatedDeliveryTime": 119,
+                    "merchantBrief": {
+                        "cuisine": [
+                            "Fish",
+                            "Specialty Grocery",
+                            "Fresh Seafood",
+                            "Fresh & Frozen",
+                            "Groceries"
+                        ],
+                        "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-CZEBMFUBUBBFCA/hero/7650fedcb5e343299e8fec5f5d990c44_1588649113685016826.jpeg",
+                        "smallPhotoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-CZEBMFUBUBBFCA/list/1e90485a3504462c8e283d848498ad8e_1588649106424110328.jpeg",
+                        "iconHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-CZEBMFUBUBBFCA/logo/265635c59d614b6c87fd27b6dd15383e_1588649101752047924.jpeg",
+                        "openHours": {
+                            "open": true,
+                            "displayedHours": "00:00-23:59",
+                            "sun": "00:00-23:59",
+                            "mon": "00:00-23:59",
+                            "tue": "00:00-23:59",
+                            "wed": "00:00-23:59",
+                            "thu": "00:00-23:59",
+                            "fri": "00:00-23:59",
+                            "sat": "00:00-23:59"
+                        },
+                        "distanceInKm": 9.159,
+                        "deliverBy": "MERCHANT",
+                        "displayInfo": {
+                            "primaryText": "Tuna Paradise Singapore - Tannery Lane (Next Day Delivery)🏍"
+                        },
+                        "deliverOptions": "ONLY_DELIVERY",
+                        "secondaryCuisine": [
+                            "Grocery",
+                            "M-Spec(Food)-MealPrepEssentials",
+                            "Frozen Food",
+                            "Grocery Supermarket"
+                        ]
+                    },
+                    "chainID": "01_Tuna_Paradise_Singapore",
+                    "chainName": "Tuna Paradise Singapore",
+                    "estimatedDeliveryFee": {
+                        "currency": {
+                            "code": "SGD",
+                            "symbol": "S$",
+                            "exponent": 2
+                        },
+                        "price": 1000,
+                        "priceDisplay": "S$10.00"
+                    },
+                    "metadata": {
+                        "origin": [
+                            "Keyword::",
+                            "Search"
+                        ],
+                        "discovery": {
+                            "requestID": "85d1313c-f8bf-471e-b0e8-1348bdc64f79",
+                            "service": "foodsearch",
+                            "method": "keyword_entity",
+                            "discoverID": "e4b0198be3c04cdd9123a80f5a5bf668",
+                            "rerankMethod": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "customDimensions": "business_type=0,is_keyword=true",
+                            "defaultRankGroupID": "namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420",
+                            "defaultRankFormula": "{\"ESSS_relevance_score\":\"1 * [ES_relevance_score] + 20 * [SS_relevance_score]\",\"ES_relevance_score\":\"max(max(max(1 * [ES_fuzzy_score], 100 * [ES_nonphrase_score]), 10000 * [ES_phrase_score] + 5000 * [ES_entity_score_0] + 5000 * [ES_entity_score_1] + 5000 * [ES_entity_score_2]), 5000 * [ES_expand_score])\",\"boost_entity_item_names\":\"2.5 * [entity_item_prob]  + 0\",\"boost_entity_name\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_name.shingle\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_primary_cuisines\":\"2.5 * [entity_cuisine_prob]  + 0\",\"boost_entity_primary_cuisines.shingle\":\"2.5 * [entity_cuisine_prob]  + 0\",\"default_ranking_v2\":\"[ESSS_relevance_score] * (2.01949787 * [eta_score] + 4.52132463 * [popularity_score] + 0 * [promo_score] + 0 * [partner_score] + 1.07192206 * [recency_score] + 0.85934812 * [is_integrated] + 0.37972906)\",\"enable_semantic\":\"1\",\"experiment_id\":\"exp_food_ksr_20220430_6\",\"food_intent\":\"v2\",\"group\":\"namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420\",\"multiobj_ranking\":\"[is_open] + [is_match] + [food_keyword_sr_v4_1_1]\",\"rerank_type\":\"1\",\"similarSearchModelVersion\":\"v2\"}",
+                            "postRerankGroupID": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula"
+                        }
+                    },
+                    "businessType": "MART"
+                },
+                {
+                    "id": "4-C2LDGYJARTLCRX",
+                    "address": {
+                        "name": "Royal British Curry & Biryani Turkish Cuisine @ Authentic British Indian & Turkish Food - Goldhill Shopping Centre"
+                    },
+                    "latlng": {
+                        "latitude": 1.31811,
+                        "longitude": 103.84408
+                    },
+                    "estimatedDeliveryTime": 45,
+                    "merchantBrief": {
+                        "cuisine": [
+                            "Indian",
+                            "Middle Eastern",
+                            "BBQ & Grill",
+                            "Breakfast & Brunch",
+                            "Drinks & Beverages"
+                        ],
+                        "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C2LDGYJARTLCRX/hero/fd82c96fcfec4dc2930c8b2630c492f2_1614388518926641335.jpeg",
+                        "smallPhotoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C2LDGYJARTLCRX/list/6895eb55d7da4a30bdbff19dbc5cd182_1614388524412652523.jpeg",
+                        "openHours": {
+                            "open": true,
+                            "displayedHours": "00:00-05:00 08:30-23:59",
+                            "sun": "00:00-05:00 08:30-23:59",
+                            "mon": "00:00-05:00 08:30-23:59",
+                            "tue": "00:00-05:00 08:30-23:59",
+                            "wed": "00:00-05:00 08:30-23:59",
+                            "thu": "00:00-05:00 08:30-23:59",
+                            "fri": "00:00-05:00 08:30-23:59",
+                            "sat": "00:00-05:00 08:30-23:59"
+                        },
+                        "distanceInKm": 7.268,
+                        "rating": 3.6,
+                        "vote_count": 78,
+                        "promo": {
+                            "hasPromo": true,
+                            "description": "Enjoy up to 20% off menu-wide deals (Discount cap applies. Limited redemptions"
+                        },
+                        "featuredText": "Featured",
+                        "deliverBy": "GRAB",
+                        "displayInfo": {
+                            "primaryText": "Royal British Curry & Biryani Turkish Cuisine @ Authentic British Indian & Turkish Food - Goldhill Shopping Centre"
+                        },
+                        "deliverOptions": "DELIVERY_TAKEAWAY_DINEIN"
+                    },
+                    "chainID": "01_Royal_British_Curry__Biryani_Turkish_Cuisine",
+                    "chainName": "Royal British Curry & Biryani Turkish Cuisine @ Authentic British Indian & Turkish Food",
+                    "estimatedDeliveryFee": {
+                        "currency": {
+                            "code": "SGD",
+                            "symbol": "SGD",
+                            "exponent": 2
+                        },
+                        "price": 810,
+                        "priceDisplay": "S$8.10",
+                        "multiplier": 1.0846719584636386
+                    },
+                    "metadata": {
+                        "origin": [
+                            "Keyword::",
+                            "Search"
+                        ],
+                        "discovery": {
+                            "requestID": "85d1313c-f8bf-471e-b0e8-1348bdc64f79",
+                            "service": "foodsearch",
+                            "method": "recall_semantic_search",
+                            "discoverID": "e4b0198be3c04cdd9123a80f5a5bf668",
+                            "rerankMethod": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "customDimensions": "business_type=0,is_keyword=true",
+                            "defaultRankGroupID": "namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420",
+                            "defaultRankFormula": "{\"ESSS_relevance_score\":\"1 * [ES_relevance_score] + 20 * [SS_relevance_score]\",\"ES_relevance_score\":\"max(max(max(1 * [ES_fuzzy_score], 100 * [ES_nonphrase_score]), 10000 * [ES_phrase_score] + 5000 * [ES_entity_score_0] + 5000 * [ES_entity_score_1] + 5000 * [ES_entity_score_2]), 5000 * [ES_expand_score])\",\"boost_entity_item_names\":\"2.5 * [entity_item_prob]  + 0\",\"boost_entity_name\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_name.shingle\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_primary_cuisines\":\"2.5 * [entity_cuisine_prob]  + 0\",\"boost_entity_primary_cuisines.shingle\":\"2.5 * [entity_cuisine_prob]  + 0\",\"default_ranking_v2\":\"[ESSS_relevance_score] * (2.01949787 * [eta_score] + 4.52132463 * [popularity_score] + 0 * [promo_score] + 0 * [partner_score] + 1.07192206 * [recency_score] + 0.85934812 * [is_integrated] + 0.37972906)\",\"enable_semantic\":\"1\",\"experiment_id\":\"exp_food_ksr_20220430_6\",\"food_intent\":\"v2\",\"group\":\"namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420\",\"multiobj_ranking\":\"[is_open] + [is_match] + [food_keyword_sr_v4_1_1]\",\"rerank_type\":\"1\",\"similarSearchModelVersion\":\"v2\"}",
+                            "postRerankGroupID": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "recallSource": "semantic"
+                        }
+                    },
+                    "businessType": "FOOD"
+                },
+                {
+                    "id": "4-C2T2MBAYT322KE",
+                    "address": {
+                        "name": "Mountain Coffee - Yinchuan Building"
+                    },
+                    "latlng": {
+                        "latitude": 1.3142388412860984,
+                        "longitude": 103.8858234966786
+                    },
+                    "estimatedDeliveryTime": 50,
+                    "merchantBrief": {
+                        "cuisine": [
+                            "Chinese",
+                            "Noodles",
+                            "Seafood"
+                        ],
+                        "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C2T2MBAYT322KE/hero/0450bbf9e01e470ab4be89aaeea15079_1631261820867431752.jpeg",
+                        "smallPhotoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C2T2MBAYT322KE/list/2d8f833c0f48459dafcf48e857df9ed7_1621858416044324108.jpg",
+                        "iconHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C2T2MBAYT322KE/logo/e1e0edda9d8640fbb56e6224d764fd6e_1621858415892097390.jpg",
+                        "openHours": {
+                            "open": true,
+                            "displayedHours": "00:00-04:00 16:00-23:59",
+                            "sun": "00:00-04:00 16:00-23:59",
+                            "mon": "00:00-04:00 16:00-23:59",
+                            "tue": "00:00-04:00 16:00-23:59",
+                            "wed": "00:00-04:00 16:00-23:59",
+                            "thu": "00:00-04:00 16:00-23:59",
+                            "fri": "00:00-04:00 16:00-23:59",
+                            "sat": "00:00-04:00 16:00-23:59"
+                        },
+                        "distanceInKm": 7.399,
+                        "rating": 2.7,
+                        "vote_count": 11,
+                        "deliverBy": "GRAB",
+                        "displayInfo": {
+                            "primaryText": "Mountain Coffee - Yinchuan Building"
+                        },
+                        "deliverOptions": "DELIVERY_TAKEAWAY_DINEIN"
+                    },
+                    "chainID": "01_Mountain_Coffee",
+                    "chainName": "Mountain Coffee",
+                    "estimatedDeliveryFee": {
+                        "currency": {
+                            "code": "SGD",
+                            "symbol": "SGD",
+                            "exponent": 2
+                        },
+                        "price": 830,
+                        "priceDisplay": "S$8.30",
+                        "multiplier": 1
+                    },
+                    "metadata": {
+                        "origin": [
+                            "Keyword::",
+                            "Search"
+                        ],
+                        "discovery": {
+                            "requestID": "85d1313c-f8bf-471e-b0e8-1348bdc64f79",
+                            "service": "foodsearch",
+                            "method": "recall_semantic_search",
+                            "discoverID": "e4b0198be3c04cdd9123a80f5a5bf668",
+                            "rerankMethod": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "customDimensions": "business_type=0,is_keyword=true",
+                            "defaultRankGroupID": "namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420",
+                            "defaultRankFormula": "{\"ESSS_relevance_score\":\"1 * [ES_relevance_score] + 20 * [SS_relevance_score]\",\"ES_relevance_score\":\"max(max(max(1 * [ES_fuzzy_score], 100 * [ES_nonphrase_score]), 10000 * [ES_phrase_score] + 5000 * [ES_entity_score_0] + 5000 * [ES_entity_score_1] + 5000 * [ES_entity_score_2]), 5000 * [ES_expand_score])\",\"boost_entity_item_names\":\"2.5 * [entity_item_prob]  + 0\",\"boost_entity_name\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_name.shingle\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_primary_cuisines\":\"2.5 * [entity_cuisine_prob]  + 0\",\"boost_entity_primary_cuisines.shingle\":\"2.5 * [entity_cuisine_prob]  + 0\",\"default_ranking_v2\":\"[ESSS_relevance_score] * (2.01949787 * [eta_score] + 4.52132463 * [popularity_score] + 0 * [promo_score] + 0 * [partner_score] + 1.07192206 * [recency_score] + 0.85934812 * [is_integrated] + 0.37972906)\",\"enable_semantic\":\"1\",\"experiment_id\":\"exp_food_ksr_20220430_6\",\"food_intent\":\"v2\",\"group\":\"namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420\",\"multiobj_ranking\":\"[is_open] + [is_match] + [food_keyword_sr_v4_1_1]\",\"rerank_type\":\"1\",\"similarSearchModelVersion\":\"v2\"}",
+                            "postRerankGroupID": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "recallSource": "semantic"
+                        }
+                    },
+                    "businessType": "FOOD"
+                },
+                {
+                    "id": "4-C24VC7TUJUNEEE",
+                    "address": {
+                        "name": "Chennai Curry Nation - Chancerlodge Complex"
+                    },
+                    "latlng": {
+                        "latitude": 1.3146228892504066,
+                        "longitude": 103.87738315759705
+                    },
+                    "estimatedDeliveryTime": 119,
+                    "merchantBrief": {
+                        "cuisine": [
+                            "Local & Malaysian",
+                            "Indian",
+                            "Salad",
+                            "Dessert"
+                        ],
+                        "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C24VC7TUJUNEEE/hero/a8d0443f7965490d88c190a2e5e047b6_1635333570982457313.jpeg",
+                        "smallPhotoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C24VC7TUJUNEEE/list/43997fe6f9c04deda17778b77426defa_1635333564497201285.jpeg",
+                        "iconHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C24VC7TUJUNEEE/logo/86f5ccb11de94e8d9cdfed4593910069_1635333560022017652.jpeg",
+                        "openHours": {
+                            "open": true,
+                            "displayedHours": "00:00-04:00 10:00-23:59",
+                            "sun": "00:00-04:00 10:00-23:59",
+                            "mon": "00:00-04:00 10:00-23:59",
+                            "tue": "00:00-04:00 10:00-23:59",
+                            "wed": "00:00-04:00 10:00-23:59",
+                            "thu": "00:00-04:00 10:00-23:59",
+                            "fri": "00:00-04:00 10:00-23:59",
+                            "sat": "00:00-04:00 10:00-23:59"
+                        },
+                        "distanceInKm": 6.793,
+                        "rating": 2.8,
+                        "vote_count": 57,
+                        "promo": {
+                            "hasPromo": true,
+                            "description": "10% off Breads"
+                        },
+                        "deliverBy": "MERCHANT",
+                        "displayInfo": {
+                            "primaryText": "Chennai Curry Nation - Chancerlodge Complex"
+                        },
+                        "deliverOptions": "DELIVERY_TAKEAWAY"
+                    },
+                    "chainID": "01_Chennai_Curry_Nation",
+                    "chainName": "Chennai Curry Nation",
+                    "estimatedDeliveryFee": {
+                        "currency": {
+                            "code": "SGD",
+                            "symbol": "S$",
+                            "exponent": 2
+                        },
+                        "price": 500,
+                        "priceDisplay": "S$5.00"
+                    },
+                    "metadata": {
+                        "origin": [
+                            "Keyword::",
+                            "Search"
+                        ],
+                        "discovery": {
+                            "requestID": "85d1313c-f8bf-471e-b0e8-1348bdc64f79",
+                            "service": "foodsearch",
+                            "method": "recall_semantic_search",
+                            "discoverID": "e4b0198be3c04cdd9123a80f5a5bf668",
+                            "rerankMethod": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "customDimensions": "business_type=0,is_keyword=true",
+                            "defaultRankGroupID": "namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420",
+                            "defaultRankFormula": "{\"ESSS_relevance_score\":\"1 * [ES_relevance_score] + 20 * [SS_relevance_score]\",\"ES_relevance_score\":\"max(max(max(1 * [ES_fuzzy_score], 100 * [ES_nonphrase_score]), 10000 * [ES_phrase_score] + 5000 * [ES_entity_score_0] + 5000 * [ES_entity_score_1] + 5000 * [ES_entity_score_2]), 5000 * [ES_expand_score])\",\"boost_entity_item_names\":\"2.5 * [entity_item_prob]  + 0\",\"boost_entity_name\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_name.shingle\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_primary_cuisines\":\"2.5 * [entity_cuisine_prob]  + 0\",\"boost_entity_primary_cuisines.shingle\":\"2.5 * [entity_cuisine_prob]  + 0\",\"default_ranking_v2\":\"[ESSS_relevance_score] * (2.01949787 * [eta_score] + 4.52132463 * [popularity_score] + 0 * [promo_score] + 0 * [partner_score] + 1.07192206 * [recency_score] + 0.85934812 * [is_integrated] + 0.37972906)\",\"enable_semantic\":\"1\",\"experiment_id\":\"exp_food_ksr_20220430_6\",\"food_intent\":\"v2\",\"group\":\"namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420\",\"multiobj_ranking\":\"[is_open] + [is_match] + [food_keyword_sr_v4_1_1]\",\"rerank_type\":\"1\",\"similarSearchModelVersion\":\"v2\"}",
+                            "postRerankGroupID": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "recallSource": "semantic"
+                        }
+                    },
+                    "businessType": "FOOD"
+                },
+                {
+                    "id": "4-C25UJ7M3VK53JE",
+                    "address": {
+                        "name": "Butter N Naan Northern Indian Modern Tandoor Cusine @Heart of the City in Central Singapore"
+                    },
+                    "latlng": {
+                        "latitude": 1.31806,
+                        "longitude": 103.8437
+                    },
+                    "estimatedDeliveryTime": 119,
+                    "merchantBrief": {
+                        "cuisine": [
+                            "Islandwide Delivery",
+                            "Indian",
+                            "Vegetarian Friendly",
+                            "Zi Char",
+                            "Salad"
+                        ],
+                        "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C25UJ7M3VK53JE/hero/813ede75e3264b51bece2e3c0e1f8376_1646036298855910075.jpeg",
+                        "smallPhotoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C25UJ7M3VK53JE/list/7c8fab4fa4334a40b1821b8158b6bed9_1646036285903749674.jpeg",
+                        "iconHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C25UJ7M3VK53JE/logo/3be361f4aea2494aa838529a99fb0f63_1637544397007049103.jpeg",
+                        "openHours": {
+                            "open": true,
+                            "displayedHours": "00:00-04:00 08:30-23:59",
+                            "sun": "00:00-04:00 08:30-23:59",
+                            "mon": "00:00-04:00 08:30-23:59",
+                            "tue": "00:00-04:00 08:30-23:59",
+                            "wed": "00:00-04:00 08:30-23:59",
+                            "thu": "00:00-04:00 08:30-23:59",
+                            "fri": "00:00-04:00 08:30-23:59",
+                            "sat": "00:00-04:00 08:30-23:59"
+                        },
+                        "distanceInKm": 7.144,
+                        "rating": 2.7,
+                        "vote_count": 116,
+                        "promo": {
+                            "hasPromo": true,
+                            "description": "Enjoy up to 20% off menu-wide deals (Discount cap applies. Limited redemptions"
+                        },
+                        "featuredText": "Featured",
+                        "deliverBy": "MERCHANT",
+                        "displayInfo": {
+                            "primaryText": "Butter N Naan Northern Indian Modern Tandoor Cusine @Heart of the City in Central Singapore"
+                        },
+                        "deliverOptions": "DELIVERY_DINEIN"
+                    },
+                    "chainID": "01_Butter_N_Naan_Northern_Indian_Modern_Tandoor_Cusine_Heart_of_",
+                    "chainName": "Butter N Naan Northern Indian Modern Tandoor Cusine @Heart of the City in Central Singapore",
+                    "estimatedDeliveryFee": {
+                        "currency": {
+                            "code": "SGD",
+                            "symbol": "S$",
+                            "exponent": 2
+                        },
+                        "price": 500,
+                        "priceDisplay": "S$5.00"
+                    },
+                    "metadata": {
+                        "origin": [
+                            "Keyword::",
+                            "Search"
+                        ],
+                        "discovery": {
+                            "requestID": "85d1313c-f8bf-471e-b0e8-1348bdc64f79",
+                            "service": "foodsearch",
+                            "method": "keyword_entity",
+                            "discoverID": "e4b0198be3c04cdd9123a80f5a5bf668",
+                            "rerankMethod": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "customDimensions": "business_type=0,is_keyword=true",
+                            "defaultRankGroupID": "namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420",
+                            "defaultRankFormula": "{\"ESSS_relevance_score\":\"1 * [ES_relevance_score] + 20 * [SS_relevance_score]\",\"ES_relevance_score\":\"max(max(max(1 * [ES_fuzzy_score], 100 * [ES_nonphrase_score]), 10000 * [ES_phrase_score] + 5000 * [ES_entity_score_0] + 5000 * [ES_entity_score_1] + 5000 * [ES_entity_score_2]), 5000 * [ES_expand_score])\",\"boost_entity_item_names\":\"2.5 * [entity_item_prob]  + 0\",\"boost_entity_name\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_name.shingle\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_primary_cuisines\":\"2.5 * [entity_cuisine_prob]  + 0\",\"boost_entity_primary_cuisines.shingle\":\"2.5 * [entity_cuisine_prob]  + 0\",\"default_ranking_v2\":\"[ESSS_relevance_score] * (2.01949787 * [eta_score] + 4.52132463 * [popularity_score] + 0 * [promo_score] + 0 * [partner_score] + 1.07192206 * [recency_score] + 0.85934812 * [is_integrated] + 0.37972906)\",\"enable_semantic\":\"1\",\"experiment_id\":\"exp_food_ksr_20220430_6\",\"food_intent\":\"v2\",\"group\":\"namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420\",\"multiobj_ranking\":\"[is_open] + [is_match] + [food_keyword_sr_v4_1_1]\",\"rerank_type\":\"1\",\"similarSearchModelVersion\":\"v2\"}",
+                            "postRerankGroupID": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula"
+                        }
+                    },
+                    "businessType": "FOOD"
+                }
+            ],
+            "requestID": "85d1313c-f8bf-471e-b0e8-1348bdc64f79",
+            "offset": 24,
+            "hasMore": true,
+            "dataTrackingInfo": {
+                "tags": ""
+            }
+        }
+    },
+    {
+        "searchResult": {
+            "searchID": "4012732b8ffb4f25a7e0617a14a0638a",
+            "totalCount": 165,
+            "searchMerchants": [
+                {
+                    "id": "4-C2KBLRLYLE6JNT",
+                    "address": {
+                        "name": "Shun Feng Guan - Kitchener Road"
+                    },
+                    "latlng": {
+                        "latitude": 1.30985,
+                        "longitude": 103.85699
+                    },
+                    "estimatedDeliveryTime": 68,
+                    "merchantBrief": {
+                        "cuisine": [
+                            "Chinese",
+                            "Seafood",
+                            "BBQ & Grill"
+                        ],
+                        "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C2KBLRLYLE6JNT/hero/e75446abb97b4d9e9a24ba383d8cb067_1612160227420174320.jpeg",
+                        "smallPhotoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C2KBLRLYLE6JNT/list/009b63e2de2b43f0ac18a0e5f4ed7d2c_1612160221685626558.jpeg",
+                        "iconHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C2KBLRLYLE6JNT/logo/11cfa974b6c44fe3bb58b50a5c2eaf59_1612160216993385656.jpeg",
+                        "openHours": {
+                            "open": true,
+                            "displayedHours": "00:00-03:50 16:55-23:59",
+                            "sun": "00:00-03:50 16:55-23:59",
+                            "mon": "00:00-03:50 16:55-23:59",
+                            "tue": "00:00-03:50 16:55-23:59",
+                            "wed": "00:00-03:50 16:55-23:59",
+                            "thu": "00:00-03:50 16:55-23:59",
+                            "fri": "00:00-03:50 16:55-23:59",
+                            "sat": "00:00-03:50 16:55-23:59"
+                        },
+                        "distanceInKm": 4.112,
+                        "rating": 4,
+                        "vote_count": 948,
+                        "deliverBy": "MERCHANT",
+                        "displayInfo": {
+                            "primaryText": "Shun Feng Guan - Kitchener Road"
+                        },
+                        "deliverOptions": "DELIVERY_TAKEAWAY",
+                        "secondaryCuisine": [
+                            "Local"
+                        ]
+                    },
+                    "chainID": "01_Shun_Feng_Guan",
+                    "chainName": "Shun Feng Guan",
+                    "estimatedDeliveryFee": {
+                        "currency": {
+                            "code": "SGD",
+                            "symbol": "S$",
+                            "exponent": 2
+                        },
+                        "price": 700,
+                        "priceDisplay": "S$7.00"
+                    },
+                    "metadata": {
+                        "origin": [
+                            "Keyword::",
+                            "Search"
+                        ],
+                        "discovery": {
+                            "requestID": "b0849603-0330-481f-98c2-31e6ff61a7bb",
+                            "service": "foodsearch",
+                            "method": "keyword_noPhrase",
+                            "discoverID": "4012732b8ffb4f25a7e0617a14a0638a",
+                            "rerankMethod": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "customDimensions": "business_type=0,is_keyword=true",
+                            "defaultRankGroupID": "namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420",
+                            "defaultRankFormula": "{\"ESSS_relevance_score\":\"1 * [ES_relevance_score] + 20 * [SS_relevance_score]\",\"ES_relevance_score\":\"max(max(max(1 * [ES_fuzzy_score], 100 * [ES_nonphrase_score]), 10000 * [ES_phrase_score] + 5000 * [ES_entity_score_0] + 5000 * [ES_entity_score_1] + 5000 * [ES_entity_score_2]), 5000 * [ES_expand_score])\",\"boost_entity_item_names\":\"2.5 * [entity_item_prob]  + 0\",\"boost_entity_name\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_name.shingle\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_primary_cuisines\":\"2.5 * [entity_cuisine_prob]  + 0\",\"boost_entity_primary_cuisines.shingle\":\"2.5 * [entity_cuisine_prob]  + 0\",\"default_ranking_v2\":\"[ESSS_relevance_score] * (2.01949787 * [eta_score] + 4.52132463 * [popularity_score] + 0 * [promo_score] + 0 * [partner_score] + 1.07192206 * [recency_score] + 0.85934812 * [is_integrated] + 0.37972906)\",\"enable_semantic\":\"1\",\"experiment_id\":\"exp_food_ksr_20220430_6\",\"food_intent\":\"v2\",\"group\":\"namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420\",\"multiobj_ranking\":\"[is_open] + [is_match] + [food_keyword_sr_v4_1_1]\",\"rerank_type\":\"1\",\"similarSearchModelVersion\":\"v2\"}",
+                            "postRerankGroupID": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula"
+                        }
+                    },
+                    "businessType": "FOOD"
+                },
+                {
+                    "id": "4-CZEXGATJLE5AEJ",
+                    "address": {
+                        "name": "NH Mart - Hougang Ave 8"
+                    },
+                    "latlng": {
+                        "latitude": 1.3701814937155383,
+                        "longitude": 103.88406389632505
+                    },
+                    "estimatedDeliveryTime": 50,
+                    "merchantBrief": {
+                        "cuisine": [
+                            "Islandwide Delivery",
+                            "Groceries",
+                            "Alcohol",
+                            "Snacks",
+                            "Convenience"
+                        ],
+                        "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-CZEXGATJLE5AEJ/hero/896b258cd4c64a8cafbaf7a520f4a874_1611549792890064128.jpg",
+                        "smallPhotoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-CZEXGATJLE5AEJ/list/64ad451e262c4033805bf5eb738f9a52_1611549792802687488.jpg",
+                        "iconHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-CZEXGATJLE5AEJ/logo/64ad451e262c4033805bf5eb738f9a52_1611549792802687488.jpg",
+                        "openHours": {
+                            "open": true,
+                            "displayedHours": "00:00-23:59",
+                            "sun": "00:00-23:59",
+                            "mon": "00:00-23:59",
+                            "tue": "00:00-23:59",
+                            "wed": "00:00-23:59",
+                            "thu": "00:00-23:59",
+                            "fri": "00:00-23:59",
+                            "sat": "00:00-23:59"
+                        },
+                        "distanceInKm": 14.166,
+                        "rating": 4.4,
+                        "vote_count": 4027,
+                        "promo": {
+                            "hasPromo": true,
+                            "description": "20% Off Self-Pick Up with MARTPICKUPBONUS under GrabUnlimited"
+                        },
+                        "deliverBy": "GRAB",
+                        "displayInfo": {
+                            "primaryText": "NH Mart - Hougang Ave 8"
+                        },
+                        "deliverOptions": "ONLY_DELIVERY",
+                        "secondaryCuisine": [
+                            "Beverages",
+                            "7-11",
+                            "Personal Care",
+                            "M-Minimarts",
+                            "NTUC"
+                        ]
+                    },
+                    "chainID": "01_NH_Mart",
+                    "chainName": "NH Mart",
+                    "estimatedDeliveryFee": {
+                        "currency": {
+                            "code": "SGD",
+                            "symbol": "SGD",
+                            "exponent": 2
+                        },
+                        "price": 1520,
+                        "priceDisplay": "S$15.20",
+                        "multiplier": 1
+                    },
+                    "metadata": {
+                        "origin": [
+                            "Keyword::",
+                            "Search"
+                        ],
+                        "discovery": {
+                            "requestID": "b0849603-0330-481f-98c2-31e6ff61a7bb",
+                            "service": "foodsearch",
+                            "method": "keyword_noPhrase",
+                            "discoverID": "4012732b8ffb4f25a7e0617a14a0638a",
+                            "rerankMethod": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "customDimensions": "business_type=0,is_keyword=true",
+                            "defaultRankGroupID": "namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420",
+                            "defaultRankFormula": "{\"ESSS_relevance_score\":\"1 * [ES_relevance_score] + 20 * [SS_relevance_score]\",\"ES_relevance_score\":\"max(max(max(1 * [ES_fuzzy_score], 100 * [ES_nonphrase_score]), 10000 * [ES_phrase_score] + 5000 * [ES_entity_score_0] + 5000 * [ES_entity_score_1] + 5000 * [ES_entity_score_2]), 5000 * [ES_expand_score])\",\"boost_entity_item_names\":\"2.5 * [entity_item_prob]  + 0\",\"boost_entity_name\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_name.shingle\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_primary_cuisines\":\"2.5 * [entity_cuisine_prob]  + 0\",\"boost_entity_primary_cuisines.shingle\":\"2.5 * [entity_cuisine_prob]  + 0\",\"default_ranking_v2\":\"[ESSS_relevance_score] * (2.01949787 * [eta_score] + 4.52132463 * [popularity_score] + 0 * [promo_score] + 0 * [partner_score] + 1.07192206 * [recency_score] + 0.85934812 * [is_integrated] + 0.37972906)\",\"enable_semantic\":\"1\",\"experiment_id\":\"exp_food_ksr_20220430_6\",\"food_intent\":\"v2\",\"group\":\"namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420\",\"multiobj_ranking\":\"[is_open] + [is_match] + [food_keyword_sr_v4_1_1]\",\"rerank_type\":\"1\",\"similarSearchModelVersion\":\"v2\"}",
+                            "postRerankGroupID": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula"
+                        }
+                    },
+                    "businessType": "MART"
+                },
+                {
+                    "id": "4-C23BFBLFNNWUVX",
+                    "address": {
+                        "name": "Bober Tea - Singapore Management University"
+                    },
+                    "latlng": {
+                        "latitude": 1.29605273538189,
+                        "longitude": 103.850371457672
+                    },
+                    "estimatedDeliveryTime": 35,
+                    "merchantBrief": {
+                        "cuisine": [
+                            "Bubble Tea"
+                        ],
+                        "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C23BFBLFNNWUVX/hero/64ededebdb4b4188b010e90b400c9969_1632132522750424191.jpeg",
+                        "smallPhotoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C23BFBLFNNWUVX/list/445219c8afc646168cfaadc912c334b6_1632132518881898895.jpeg",
+                        "iconHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C23BFBLFNNWUVX/logo/ea2efe85ffd64ed2a36f0121fe10bb62_1632132509702344376.jpeg",
+                        "openHours": {
+                            "displayedHours": "Closed",
+                            "sun": "Closed",
+                            "mon": "10:30-20:30",
+                            "tue": "10:30-20:30",
+                            "wed": "10:30-20:30",
+                            "thu": "10:30-20:30",
+                            "fri": "10:30-20:30",
+                            "sat": "11:30-16:00"
+                        },
+                        "distanceInKm": 2.743,
+                        "rating": 4.7,
+                        "vote_count": 79,
+                        "promo": {
+                            "hasPromo": true,
+                            "description": "Enjoy Free delivery (cap at $4) during 3-5pm. No min. spend for GrabUnlimited subscribers, min spend of $15 otherwise"
+                        },
+                        "featuredText": "Featured",
+                        "closedText": "Opening at 10:30 AM",
+                        "closedTextType": "openTime",
+                        "deliverBy": "GRAB",
+                        "displayInfo": {
+                            "primaryText": "Bober Tea - Singapore Management University"
+                        },
+                        "deliverOptions": "DELIVERY_TAKEAWAY_DINEIN"
+                    },
+                    "chainID": "01_Bober_Tea",
+                    "chainName": "Bober Tea",
+                    "metadata": {
+                        "origin": [
+                            "Keyword::",
+                            "Search"
+                        ],
+                        "discovery": {
+                            "requestID": "b0849603-0330-481f-98c2-31e6ff61a7bb",
+                            "service": "foodsearch",
+                            "method": "keyword_entity",
+                            "discoverID": "4012732b8ffb4f25a7e0617a14a0638a",
+                            "rerankMethod": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "customDimensions": "business_type=0,is_keyword=true",
+                            "defaultRankGroupID": "namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420",
+                            "defaultRankFormula": "{\"ESSS_relevance_score\":\"1 * [ES_relevance_score] + 20 * [SS_relevance_score]\",\"ES_relevance_score\":\"max(max(max(1 * [ES_fuzzy_score], 100 * [ES_nonphrase_score]), 10000 * [ES_phrase_score] + 5000 * [ES_entity_score_0] + 5000 * [ES_entity_score_1] + 5000 * [ES_entity_score_2]), 5000 * [ES_expand_score])\",\"boost_entity_item_names\":\"2.5 * [entity_item_prob]  + 0\",\"boost_entity_name\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_name.shingle\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_primary_cuisines\":\"2.5 * [entity_cuisine_prob]  + 0\",\"boost_entity_primary_cuisines.shingle\":\"2.5 * [entity_cuisine_prob]  + 0\",\"default_ranking_v2\":\"[ESSS_relevance_score] * (2.01949787 * [eta_score] + 4.52132463 * [popularity_score] + 0 * [promo_score] + 0 * [partner_score] + 1.07192206 * [recency_score] + 0.85934812 * [is_integrated] + 0.37972906)\",\"enable_semantic\":\"1\",\"experiment_id\":\"exp_food_ksr_20220430_6\",\"food_intent\":\"v2\",\"group\":\"namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420\",\"multiobj_ranking\":\"[is_open] + [is_match] + [food_keyword_sr_v4_1_1]\",\"rerank_type\":\"1\",\"similarSearchModelVersion\":\"v2\"}",
+                            "postRerankGroupID": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula"
+                        }
+                    },
+                    "merchantStatusInfo": {
+                        "status": "CLOSED_SCHEDULE_AVALIABLE",
+                        "statusText": "Closed.",
+                        "tipText": "Order for later."
+                    },
+                    "businessType": "FOOD"
+                },
+                {
+                    "id": "4-CYLXGEBTWCBZJA",
+                    "address": {
+                        "name": "Al-Rija Indian Muslim Food - Singapore General Hospital"
+                    },
+                    "latlng": {
+                        "latitude": 1.279983,
+                        "longitude": 103.834818
+                    },
+                    "estimatedDeliveryTime": 30,
+                    "merchantBrief": {
+                        "cuisine": [
+                            "Indian"
+                        ],
+                        "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-CYLXGEBTWCBZJA/hero/a1f58f32bcea4861a51a871bb8420693_1567762503378141217.jpg",
+                        "smallPhotoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-CYLXGEBTWCBZJA/list/a1f58f32bcea4861a51a871bb8420693_1567762503378141217.jpg",
+                        "iconHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-CYLXGEBTWCBZJA/logo/a1f58f32bcea4861a51a871bb8420693_1567762503378141217.jpg",
+                        "openHours": {
+                            "displayedHours": "Closed",
+                            "sun": "07:00-21:30",
+                            "mon": "23:12-23:31",
+                            "tue": "07:00-21:30",
+                            "wed": "07:00-21:30",
+                            "thu": "07:00-21:30",
+                            "fri": "07:00-21:30",
+                            "sat": "07:00-21:30"
+                        },
+                        "distanceInKm": 3.776,
+                        "closedText": "Opening at 7 AM",
+                        "closedTextType": "openTime",
+                        "deliverBy": "GRAB",
+                        "displayInfo": {
+                            "primaryText": "Al-Rija Indian Muslim Food - Singapore General Hospital"
+                        },
+                        "deliverOptions": "DELIVERY_TAKEAWAY_DINEIN"
+                    },
+                    "chainID": "01_AlRija_Indian_Muslim_Food",
+                    "chainName": "Al-Rija Indian Muslim Food",
+                    "metadata": {
+                        "origin": [
+                            "Keyword::",
+                            "Search"
+                        ],
+                        "discovery": {
+                            "requestID": "b0849603-0330-481f-98c2-31e6ff61a7bb",
+                            "service": "foodsearch",
+                            "method": "unavailableMex_closed,unavailableMex_outOfRadius,keyword_phrase,keyword_entity,keyword_noPhrase",
+                            "discoverID": "4012732b8ffb4f25a7e0617a14a0638a",
+                            "rerankMethod": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "customDimensions": "business_type=0,is_keyword=true",
+                            "defaultRankGroupID": "namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420",
+                            "defaultRankFormula": "{\"ESSS_relevance_score\":\"1 * [ES_relevance_score] + 20 * [SS_relevance_score]\",\"ES_relevance_score\":\"max(max(max(1 * [ES_fuzzy_score], 100 * [ES_nonphrase_score]), 10000 * [ES_phrase_score] + 5000 * [ES_entity_score_0] + 5000 * [ES_entity_score_1] + 5000 * [ES_entity_score_2]), 5000 * [ES_expand_score])\",\"boost_entity_item_names\":\"2.5 * [entity_item_prob]  + 0\",\"boost_entity_name\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_name.shingle\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_primary_cuisines\":\"2.5 * [entity_cuisine_prob]  + 0\",\"boost_entity_primary_cuisines.shingle\":\"2.5 * [entity_cuisine_prob]  + 0\",\"default_ranking_v2\":\"[ESSS_relevance_score] * (2.01949787 * [eta_score] + 4.52132463 * [popularity_score] + 0 * [promo_score] + 0 * [partner_score] + 1.07192206 * [recency_score] + 0.85934812 * [is_integrated] + 0.37972906)\",\"enable_semantic\":\"1\",\"experiment_id\":\"exp_food_ksr_20220430_6\",\"food_intent\":\"v2\",\"group\":\"namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420\",\"multiobj_ranking\":\"[is_open] + [is_match] + [food_keyword_sr_v4_1_1]\",\"rerank_type\":\"1\",\"similarSearchModelVersion\":\"v2\"}",
+                            "postRerankGroupID": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula"
+                        }
+                    },
+                    "merchantStatusInfo": {
+                        "status": "CLOSED_SCHEDULE_AVALIABLE",
+                        "statusText": "Closed.",
+                        "tipText": "Order for later."
+                    },
+                    "businessType": "FOOD"
+                },
+                {
+                    "id": "4-CYTKLXETUBJWDE",
+                    "address": {
+                        "name": "Mr Bean - Singapore General Hospital"
+                    },
+                    "latlng": {
+                        "latitude": 1.2793724,
+                        "longitude": 103.83531735
+                    },
+                    "estimatedDeliveryTime": 40,
+                    "merchantBrief": {
+                        "cuisine": [
+                            "Local & Malaysian",
+                            "Breakfast & Brunch",
+                            "Healthy"
+                        ],
+                        "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-CYTKLXETUBJWDE/hero/4f57a730779a4227abfe943a6f9b393c_1602235025264042173.jpeg",
+                        "smallPhotoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-CYTKLXETUBJWDE/list/be012098ac9845458e14e72533476385_1602235025328850850.jpeg",
+                        "openHours": {
+                            "displayedHours": "Closed",
+                            "sun": "08:00-19:00",
+                            "mon": "08:00-20:30",
+                            "tue": "08:00-20:30",
+                            "wed": "08:00-20:30",
+                            "thu": "08:00-20:30",
+                            "fri": "08:00-19:30",
+                            "sat": "08:00-19:00"
+                        },
+                        "distanceInKm": 4.213,
+                        "rating": 4.2,
+                        "vote_count": 228,
+                        "closedText": "Opening at 8 AM",
+                        "closedTextType": "openTime",
+                        "deliverBy": "GRAB",
+                        "displayInfo": {
+                            "primaryText": "Mr Bean - Singapore General Hospital"
+                        },
+                        "deliverOptions": "DELIVERY_TAKEAWAY_DINEIN",
+                        "secondaryCuisine": [
+                            "Singaporean"
+                        ]
+                    },
+                    "chainID": "01_Mr_Bean",
+                    "chainName": "Mr Bean",
+                    "metadata": {
+                        "origin": [
+                            "Keyword::",
+                            "Search"
+                        ],
+                        "discovery": {
+                            "requestID": "b0849603-0330-481f-98c2-31e6ff61a7bb",
+                            "service": "foodsearch",
+                            "method": "unavailableMex_closed,unavailableMex_outOfRadius,keyword_phrase,keyword_entity,keyword_noPhrase",
+                            "discoverID": "4012732b8ffb4f25a7e0617a14a0638a",
+                            "rerankMethod": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "customDimensions": "business_type=0,is_keyword=true",
+                            "defaultRankGroupID": "namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420",
+                            "defaultRankFormula": "{\"ESSS_relevance_score\":\"1 * [ES_relevance_score] + 20 * [SS_relevance_score]\",\"ES_relevance_score\":\"max(max(max(1 * [ES_fuzzy_score], 100 * [ES_nonphrase_score]), 10000 * [ES_phrase_score] + 5000 * [ES_entity_score_0] + 5000 * [ES_entity_score_1] + 5000 * [ES_entity_score_2]), 5000 * [ES_expand_score])\",\"boost_entity_item_names\":\"2.5 * [entity_item_prob]  + 0\",\"boost_entity_name\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_name.shingle\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_primary_cuisines\":\"2.5 * [entity_cuisine_prob]  + 0\",\"boost_entity_primary_cuisines.shingle\":\"2.5 * [entity_cuisine_prob]  + 0\",\"default_ranking_v2\":\"[ESSS_relevance_score] * (2.01949787 * [eta_score] + 4.52132463 * [popularity_score] + 0 * [promo_score] + 0 * [partner_score] + 1.07192206 * [recency_score] + 0.85934812 * [is_integrated] + 0.37972906)\",\"enable_semantic\":\"1\",\"experiment_id\":\"exp_food_ksr_20220430_6\",\"food_intent\":\"v2\",\"group\":\"namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420\",\"multiobj_ranking\":\"[is_open] + [is_match] + [food_keyword_sr_v4_1_1]\",\"rerank_type\":\"1\",\"similarSearchModelVersion\":\"v2\"}",
+                            "postRerankGroupID": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula"
+                        }
+                    },
+                    "merchantStatusInfo": {
+                        "status": "CLOSED_SCHEDULE_AVALIABLE",
+                        "statusText": "Closed.",
+                        "tipText": "Order for later."
+                    },
+                    "businessType": "FOOD"
+                },
+                {
+                    "id": "4-CZCVCLEGVJ5CET",
+                    "address": {
+                        "name": "Five Guys - Plaza Singapore"
+                    },
+                    "latlng": {
+                        "latitude": 1.2998600006103513,
+                        "longitude": 103.8448860645294
+                    },
+                    "estimatedDeliveryTime": 40,
+                    "merchantBrief": {
+                        "cuisine": [
+                            "Burgers",
+                            "Fast Food",
+                            "Western"
+                        ],
+                        "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-CZCVCLEGVJ5CET/hero/46aa45331a2641a686307814bb1e556b_1585305105418133993.jpeg",
+                        "smallPhotoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-CZCVCLEGVJ5CET/list/97668feefacb49c6b924f26e0e3c3123_1585304974560308734.png",
+                        "iconHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-CZCVCLEGVJ5CET/logo/64c47cec6b81426c9b500f1ec36f21e7_1585304967807021720.png",
+                        "openHours": {
+                            "displayedHours": "Closed",
+                            "sun": "11:00-21:30",
+                            "mon": "11:00-21:30",
+                            "tue": "11:00-21:30",
+                            "wed": "11:00-21:30",
+                            "thu": "11:00-21:30",
+                            "fri": "11:00-21:30",
+                            "sat": "11:00-21:30"
+                        },
+                        "distanceInKm": 3.641,
+                        "rating": 4.3,
+                        "vote_count": 2975,
+                        "closedText": "Opening at 11 AM",
+                        "closedTextType": "openTime",
+                        "deliverBy": "GRAB",
+                        "displayInfo": {
+                            "primaryText": "Five Guys - Plaza Singapore"
+                        },
+                        "deliverOptions": "DELIVERY_TAKEAWAY_DINEIN"
+                    },
+                    "chainID": "01_Five_Guys",
+                    "chainName": "Five Guys",
+                    "metadata": {
+                        "origin": [
+                            "Keyword::",
+                            "Search"
+                        ],
+                        "discovery": {
+                            "requestID": "b0849603-0330-481f-98c2-31e6ff61a7bb",
+                            "service": "foodsearch",
+                            "method": "keyword_entity",
+                            "discoverID": "4012732b8ffb4f25a7e0617a14a0638a",
+                            "rerankMethod": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "customDimensions": "business_type=0,is_keyword=true",
+                            "defaultRankGroupID": "namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420",
+                            "defaultRankFormula": "{\"ESSS_relevance_score\":\"1 * [ES_relevance_score] + 20 * [SS_relevance_score]\",\"ES_relevance_score\":\"max(max(max(1 * [ES_fuzzy_score], 100 * [ES_nonphrase_score]), 10000 * [ES_phrase_score] + 5000 * [ES_entity_score_0] + 5000 * [ES_entity_score_1] + 5000 * [ES_entity_score_2]), 5000 * [ES_expand_score])\",\"boost_entity_item_names\":\"2.5 * [entity_item_prob]  + 0\",\"boost_entity_name\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_name.shingle\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_primary_cuisines\":\"2.5 * [entity_cuisine_prob]  + 0\",\"boost_entity_primary_cuisines.shingle\":\"2.5 * [entity_cuisine_prob]  + 0\",\"default_ranking_v2\":\"[ESSS_relevance_score] * (2.01949787 * [eta_score] + 4.52132463 * [popularity_score] + 0 * [promo_score] + 0 * [partner_score] + 1.07192206 * [recency_score] + 0.85934812 * [is_integrated] + 0.37972906)\",\"enable_semantic\":\"1\",\"experiment_id\":\"exp_food_ksr_20220430_6\",\"food_intent\":\"v2\",\"group\":\"namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420\",\"multiobj_ranking\":\"[is_open] + [is_match] + [food_keyword_sr_v4_1_1]\",\"rerank_type\":\"1\",\"similarSearchModelVersion\":\"v2\"}",
+                            "postRerankGroupID": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula"
+                        }
+                    },
+                    "merchantStatusInfo": {
+                        "status": "CLOSED_SCHEDULE_AVALIABLE",
+                        "statusText": "Closed.",
+                        "tipText": "Order for later."
+                    },
+                    "businessType": "FOOD"
+                },
+                {
+                    "id": "4-C2CCV7ECRATBCT",
+                    "address": {
+                        "name": "Makan Biryani Singapore - Hong Lim Complex"
+                    },
+                    "latlng": {
+                        "latitude": 1.2855701263268722,
+                        "longitude": 103.84583363871282
+                    },
+                    "estimatedDeliveryTime": 25,
+                    "merchantBrief": {
+                        "cuisine": [
+                            "Indian",
+                            "Local & Malaysian",
+                            "Same Prices In-Store"
+                        ],
+                        "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C2CCV7ECRATBCT/hero/cd9c739978a04e46ab76a3d70ceaf507_1604297482813939096.jpg",
+                        "smallPhotoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C2CCV7ECRATBCT/list/447652489a0d4be894290c0a46e8cd47_1604297482884474767.jpg",
+                        "iconHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C2CCV7ECRATBCT/logo/eb5a332f5e894b3693d7239237308553_1604297482738199090.jpg",
+                        "openHours": {
+                            "displayedHours": "Closed",
+                            "sun": "Closed",
+                            "mon": "11:00-15:00",
+                            "tue": "11:00-15:00",
+                            "wed": "11:00-15:00",
+                            "thu": "11:00-15:00",
+                            "fri": "11:00-15:00",
+                            "sat": "10:00-14:00"
+                        },
+                        "distanceInKm": 1.859,
+                        "rating": 5,
+                        "vote_count": 1,
+                        "closedText": "Opening at 11 AM",
+                        "closedTextType": "openTime",
+                        "deliverBy": "GRAB",
+                        "specialMerchantType": "GRABKITCHENNORMAL",
+                        "merchantClusterID": "SGMCL20210503045443013205",
+                        "displayInfo": {
+                            "primaryText": "Makan Biryani Singapore - Hong Lim Complex"
+                        },
+                        "deliverOptions": "DELIVERY_TAKEAWAY_DINEIN"
+                    },
+                    "chainID": "01_Savannah_Rich_Roosters",
+                    "chainName": "Savannah Rich Rooster's",
+                    "metadata": {
+                        "origin": [
+                            "Keyword::",
+                            "Search"
+                        ],
+                        "discovery": {
+                            "requestID": "b0849603-0330-481f-98c2-31e6ff61a7bb",
+                            "service": "foodsearch",
+                            "method": "keyword_entity",
+                            "discoverID": "4012732b8ffb4f25a7e0617a14a0638a",
+                            "rerankMethod": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "customDimensions": "business_type=0,is_keyword=true",
+                            "defaultRankGroupID": "namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420",
+                            "defaultRankFormula": "{\"ESSS_relevance_score\":\"1 * [ES_relevance_score] + 20 * [SS_relevance_score]\",\"ES_relevance_score\":\"max(max(max(1 * [ES_fuzzy_score], 100 * [ES_nonphrase_score]), 10000 * [ES_phrase_score] + 5000 * [ES_entity_score_0] + 5000 * [ES_entity_score_1] + 5000 * [ES_entity_score_2]), 5000 * [ES_expand_score])\",\"boost_entity_item_names\":\"2.5 * [entity_item_prob]  + 0\",\"boost_entity_name\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_name.shingle\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_primary_cuisines\":\"2.5 * [entity_cuisine_prob]  + 0\",\"boost_entity_primary_cuisines.shingle\":\"2.5 * [entity_cuisine_prob]  + 0\",\"default_ranking_v2\":\"[ESSS_relevance_score] * (2.01949787 * [eta_score] + 4.52132463 * [popularity_score] + 0 * [promo_score] + 0 * [partner_score] + 1.07192206 * [recency_score] + 0.85934812 * [is_integrated] + 0.37972906)\",\"enable_semantic\":\"1\",\"experiment_id\":\"exp_food_ksr_20220430_6\",\"food_intent\":\"v2\",\"group\":\"namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420\",\"multiobj_ranking\":\"[is_open] + [is_match] + [food_keyword_sr_v4_1_1]\",\"rerank_type\":\"1\",\"similarSearchModelVersion\":\"v2\"}",
+                            "postRerankGroupID": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula"
+                        }
+                    },
+                    "merchantStatusInfo": {
+                        "status": "CLOSED_SCHEDULE_AVALIABLE",
+                        "statusText": "Closed.",
+                        "tipText": "Order for later."
+                    },
+                    "businessType": "FOOD"
+                },
+                {
+                    "id": "4-C2UTLU5FGECGTN",
+                    "address": {
+                        "name": "Home Kitchen Nasi Lemak - National Heart Centre Of Singapore"
+                    },
+                    "latlng": {
+                        "latitude": 1.27816597,
+                        "longitude": 103.8359396
+                    },
+                    "estimatedDeliveryTime": 35,
+                    "merchantBrief": {
+                        "cuisine": [
+                            "Local & Malaysian",
+                            "Peranakan",
+                            "Halal"
+                        ],
+                        "photoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C2UTLU5FGECGTN/hero/ec074fab060a444e9a478e235dedcb5c_1623740386983549711.jpeg",
+                        "smallPhotoHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C2UTLU5FGECGTN/list/5566ff4f6d074e2990488c8c02725bcd_1623740381598704338.jpeg",
+                        "iconHref": "https://d1sag4ddilekf6.azureedge.net/compressed/merchants/4-C2UTLU5FGECGTN/logo/01642262efb4437bbdbf04527e9c4941_1623740375731955821.jpeg",
+                        "halal": true,
+                        "openHours": {
+                            "displayedHours": "Closed",
+                            "sun": "Closed",
+                            "mon": "09:00-18:00",
+                            "tue": "09:00-18:00",
+                            "wed": "09:00-18:00",
+                            "thu": "09:00-18:00",
+                            "fri": "09:00-18:00",
+                            "sat": "Closed"
+                        },
+                        "distanceInKm": 2.825,
+                        "rating": 4.4,
+                        "vote_count": 23,
+                        "closedText": "Opening at 9 AM",
+                        "closedTextType": "openTime",
+                        "deliverBy": "GRAB",
+                        "displayInfo": {
+                            "primaryText": "Home Kitchen Nasi Lemak - National Heart Centre Of Singapore"
+                        },
+                        "deliverOptions": "DELIVERY_TAKEAWAY_DINEIN"
+                    },
+                    "chainID": "01_Home_Kitchen_Nasi_Lemak",
+                    "chainName": "Home Kitchen Nasi Lemak",
+                    "metadata": {
+                        "origin": [
+                            "Keyword::",
+                            "Search"
+                        ],
+                        "discovery": {
+                            "requestID": "b0849603-0330-481f-98c2-31e6ff61a7bb",
+                            "service": "foodsearch",
+                            "method": "keyword_entity",
+                            "discoverID": "4012732b8ffb4f25a7e0617a14a0638a",
+                            "rerankMethod": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula",
+                            "customDimensions": "business_type=0,is_keyword=true",
+                            "defaultRankGroupID": "namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420",
+                            "defaultRankFormula": "{\"ESSS_relevance_score\":\"1 * [ES_relevance_score] + 20 * [SS_relevance_score]\",\"ES_relevance_score\":\"max(max(max(1 * [ES_fuzzy_score], 100 * [ES_nonphrase_score]), 10000 * [ES_phrase_score] + 5000 * [ES_entity_score_0] + 5000 * [ES_entity_score_1] + 5000 * [ES_entity_score_2]), 5000 * [ES_expand_score])\",\"boost_entity_item_names\":\"2.5 * [entity_item_prob]  + 0\",\"boost_entity_name\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_name.shingle\":\"2.5 * [entity_merchant_prob]  + 0\",\"boost_entity_primary_cuisines\":\"2.5 * [entity_cuisine_prob]  + 0\",\"boost_entity_primary_cuisines.shingle\":\"2.5 * [entity_cuisine_prob]  + 0\",\"default_ranking_v2\":\"[ESSS_relevance_score] * (2.01949787 * [eta_score] + 4.52132463 * [popularity_score] + 0 * [promo_score] + 0 * [partner_score] + 1.07192206 * [recency_score] + 0.85934812 * [is_integrated] + 0.37972906)\",\"enable_semantic\":\"1\",\"experiment_id\":\"exp_food_ksr_20220430_6\",\"food_intent\":\"v2\",\"group\":\"namespace_food.search.keyword_exp_food_ksr_20220430_6_base_group_0_2022-09-27_34_1664246420\",\"multiobj_ranking\":\"[is_open] + [is_match] + [food_keyword_sr_v4_1_1]\",\"rerank_type\":\"1\",\"similarSearchModelVersion\":\"v2\"}",
+                            "postRerankGroupID": "KeywordRankMerchant:keyword_sr_2_v2:rerankSustainableFormula"
+                        }
+                    },
+                    "merchantStatusInfo": {
+                        "status": "CLOSED_SCHEDULE_AVALIABLE",
+                        "statusText": "Closed.",
+                        "tipText": "Order for later."
+                    },
+                    "businessType": "FOOD"
+                }
+            ],
+            "requestID": "b0849603-0330-481f-98c2-31e6ff61a7bb",
+            "offset": 32,
+            "hasMore": true,
+            "dataTrackingInfo": {
+                "tags": ""
+            }
+        }
+    }
+]
